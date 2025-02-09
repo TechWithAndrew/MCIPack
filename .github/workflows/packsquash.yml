@@ -11,6 +11,13 @@ jobs:
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
       
+      - name: Verify pack directory and metadata file
+        run: |
+          if [ ! -d "pack" ] || [ ! -f "pack/pack.mcmeta" ]; then
+            echo "Error: Pack directory or pack.mcmeta is missing!"
+            exit 1
+          fi
+      
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4.0.3
         with:
