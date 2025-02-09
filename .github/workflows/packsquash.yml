@@ -11,8 +11,8 @@ jobs:
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
       
-      - name: Debug File Paths
-        run: ls -R
+      - name: Debug Working Directory
+        run: pwd && ls -R
       
       - name: Verify pack existence after cloning
         run: |
@@ -28,11 +28,14 @@ jobs:
             exit 1
           fi
       
+      - name: Fix Permissions
+        run: chmod -R 755 pack
+      
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4.0.3
         with:
           packsquash_version: latest  # Ensures the latest version is used
-          path: pack
+          path: ./pack  # Explicitly set path
       
       - name: Download optimized pack
         uses: actions/download-artifact@v4.1.8
