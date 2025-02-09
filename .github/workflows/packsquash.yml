@@ -54,7 +54,7 @@ jobs:
         uses: ComunidadAylas/PackSquash-action@v4.0.3
         with:
           packsquash_version: latest  # Ensures the latest version is used
-          path: ./pack  # Explicitly set path
+          path: /pack/pack.mcmeta  # Explicitly set path
       
       - name: Download optimized pack
         uses: actions/download-artifact@v4.1.8
