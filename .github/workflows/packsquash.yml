@@ -10,9 +10,28 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
+          clean: true  # Ensure a clean checkout
       
       - name: Debug Working Directory
         run: pwd && ls -R
+      
+      - name: Check Exact File Name
+        run: ls -l pack/
+      
+      - name: Fix File Name (if needed)
+        run: |
+          if [ -f "pack/Pack.mcmeta" ]; then
+            mv pack/Pack.mcmeta pack/pack.mcmeta
+          fi
+      
+      - name: Check File Encoding
+        run: file pack/pack.mcmeta
+      
+      - name: Convert File Encoding (if needed)
+        run: |
+          if file pack/pack.mcmeta | grep -q 'UTF-16'; then
+            iconv -f UTF-16 -t UTF-8 pack/pack.mcmeta -o pack/pack.mcmeta
+          fi
       
       - name: Verify pack existence after cloning
         run: |
