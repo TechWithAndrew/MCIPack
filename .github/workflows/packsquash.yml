@@ -11,6 +11,16 @@ jobs:
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
       
+      - name: Debug File Paths
+        run: ls -R
+      
+      - name: Verify pack existence after cloning
+        run: |
+          if [ ! -d "pack" ]; then
+            echo "Error: 'pack' directory is missing after cloning!"
+            exit 1
+          fi
+      
       - name: Verify pack directory and metadata file
         run: |
           if [ ! -d "pack" ] || [ ! -f "pack/pack.mcmeta" ]; then
