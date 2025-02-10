@@ -21,7 +21,7 @@ jobs:
           name: Optimized pack
 
       - name: Generate Hash
-        run: sha1sum pack.zip | head -c 40 > hash.txt
+        run: sha1sum pack.zip | cut -d ' ' -f1 > hash.txt
       
       - name: Copy Pack For Plugin
         run: cp pack.zip $(cat hash.txt).zip
