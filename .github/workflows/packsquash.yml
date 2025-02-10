@@ -11,9 +11,9 @@ jobs:
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
       - name: Run PackSquash
-        uses: ComunidadAylas/PackSquash-action@v4.0.3
+        uses: ComunidadAylas/PackSquash-action@v4
         with:
-          packsquash_version: '4.0.3'  # Explicitly specifying PackSquash version
+          packsquash_version: 'v4'  # Explicitly specifying PackSquash version
       - name: Download optimized pack
         uses: actions/download-artifact@v4.1.8
         with:
