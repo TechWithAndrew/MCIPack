@@ -14,7 +14,6 @@ jobs:
         uses: ComunidadAylas/PackSquash-action@v4.0.3
         with:
           packsquash_version: '4.0.3'  # Explicitly specifying PackSquash version
-          options: "-i pack"  # Define input pack path
       - name: Download optimized pack
         uses: actions/download-artifact@v4.1.8
         with:
