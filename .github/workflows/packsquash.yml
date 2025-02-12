@@ -13,7 +13,7 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4
         with:
-          packsquash_version: '0.4.0'  # Explicitly specifying PackSquash version
+          packsquash_version: latest  # Explicitly specifying PackSquash version
       - name: Download optimized pack
         uses: actions/download-artifact@v4.1.8
         with:
