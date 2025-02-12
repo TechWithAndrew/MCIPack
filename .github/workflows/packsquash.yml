@@ -1,10 +1,8 @@
 name: Optimize resource pack
-on:
-  push:
-    tags:
-      - '**'
+on: [push, workflow_dispatch]
 jobs:
   packsquash:
+    permissions: write-all
     name: Optimize resource pack
     runs-on: ubuntu-latest
     steps:
@@ -15,11 +13,23 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4
         with:
+          path: pack
           packsquash_version: latest
-          options: |
-            pack_directory = '.'
-            output_file_path = '/tmp/pack.zip'
-      - name: Create release
+      - name: Download optimized pack
+        uses: actions/download-artifact@v3
+        with:
+          name: Optimized pack
+
+      - name: Generate Hash
+        run: sha1sum pack.zip | head -c 40 > hash.txt
+      
+      - name: Copy Pack For Plugin
+        run: cp pack.zip $(cat hash.txt).zip
+
+      - name: Tag and create release
         uses: softprops/action-gh-release@v2
         with:
-          files: /tmp/pack.zip
+          tag_name: latest
+          files: |
+            *.zip
+            hash.txt
