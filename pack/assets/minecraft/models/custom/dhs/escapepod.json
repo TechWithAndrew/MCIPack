@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "item/custom/escapepod",
-		"1": "item/custom/rotrescapepod",
-		"2": "item/custom/texturea",
+		"1": "item/custom/escapepod",
+		"2": "item/custom/escapepod",
 		"particle": "item/custom/escapepod"
 	},
 	"elements": [
