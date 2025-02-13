@@ -75,7 +75,7 @@
         {"predicate": {"custom_model_data": 104}, "model": "custom/item/rotrfan"},
         {"predicate": {"custom_model_data": 105}, "model": "custom/dhs/stsignnewnew"},
         {"predicate": {"custom_model_data": 106}, "model": "custom/dhs/bekchairnew"},
-        {"predicate": {"custom_model_data": 107}, "model": "custom/dhs/bekheadnew"},
+        {"predicate": {"custom_model_data": 107}, "model": "custom/dhs/bekheadfinal"},
         {"predicate": {"custom_model_data": 108}, "model": "custom/dhs/rotrvehicledoor"},
         {"predicate": {"custom_model_data": 109}, "model": "custom/dhs/atathead1"},
         {"predicate": {"custom_model_data": 110}, "model": "custom/dhs/atatgun"},
