@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/armtone4",
-		"particle": "item/custom/armtone4"
+		"0": "item/custom/arms/armtone4",
+		"particle": "item/custom/arms/armtone4"
 	},
 	"elements": [
 		{
