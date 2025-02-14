@@ -9,6 +9,12 @@
   
   {"predicate": {"custom_model_data":1}, "model": "custom/arms/totworkerarm"},
   {"predicate": {"custom_model_data":2}, "model": "custom/arms/kyloarm"},
-  {"predicate": {"custom_model_data":3}, "model": "custom/arms/kyloarmlightsabernew"}
+  {"predicate": {"custom_model_data":3}, "model": "custom/arms/kyloarmlightsabernew"},
+  {"predicate": {"custom_model_data":4}, "model": "custom/arms/armtone1"},
+  {"predicate": {"custom_model_data":5}, "model": "custom/arms/armtone2"},
+  {"predicate": {"custom_model_data":6}, "model": "custom/arms/armtone3"},
+  {"predicate": {"custom_model_data":7}, "model": "custom/arms/armtone4"},
+  {"predicate": {"custom_model_data":8}, "model": "custom/arms/armtone5"},
+  {"predicate": {"custom_model_data":9}, "model": "custom/arms/armtone6"}
 ]
 }
