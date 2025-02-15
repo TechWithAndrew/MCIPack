@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "textureps1",
-		"1": "textureps2",
-		"2": "textureps3",
-		"particle": "textureps1"
+		"0": "item/custom/ps1",
+		"1": "item/custom/ps2",
+		"2": "item/custom/ps3",
+		"particle": "item/custom/ps1"
 	},
 	"elements": [
 		{
