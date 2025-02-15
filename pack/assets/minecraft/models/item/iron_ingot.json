@@ -115,6 +115,6 @@
         {"predicate": {"custom_model_data": 144}, "model": "custom/dhs/pictureifyoudaremodel"},
         {"predicate": {"custom_model_data": 145}, "model": "custom/dhs/escapepod"},
         {"predicate": {"custom_model_data": 146}, "model": "custom/item/spainairdpotc"},
-        {"predicate": {"custom_model_data": 147}, "model": "custom/item/potcwheel"}
+        {"predicate": {"custom_model_data": 147}, "model": "custom/mk/potcwheel"}
     ]
 }
