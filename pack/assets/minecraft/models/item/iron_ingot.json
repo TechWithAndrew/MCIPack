@@ -117,6 +117,7 @@
         {"predicate": {"custom_model_data": 146}, "model": "custom/item/spainairdpotc"},
         {"predicate": {"custom_model_data": 147}, "model": "custom/mk/potcwheel"},
         {"predicate": {"custom_model_data": 148}, "model": "custom/mk/wheel"},
-        {"predicate": {"custom_model_data": 149}, "model": "custom/mk/jackheadpotc"}
+        {"predicate": {"custom_model_data": 149}, "model": "custom/mk/jackheadpotc"},
+        {"predicate": {"custom_model_data": 150}, "model": "custom/mk/jackhead2potc"}
     ]
 }
