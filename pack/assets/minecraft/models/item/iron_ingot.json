@@ -119,6 +119,9 @@
         {"predicate": {"custom_model_data": 148}, "model": "custom/mk/wheel"},
         {"predicate": {"custom_model_data": 149}, "model": "custom/mk/jackheadpotc"},
         {"predicate": {"custom_model_data": 150}, "model": "custom/mk/jackhead2potc"},
-        {"predicate": {"custom_model_data": 151}, "model": "custom/dhs/rotrelevator"}
+        {"predicate": {"custom_model_data": 151}, "model": "custom/dhs/rotrelevator"},
+        {"predicate": {"custom_model_data": 152}, "model": "custom/mk/tbacar"},
+        {"predicate": {"custom_model_data": 153}, "model": "custom/mk/tbasign1"},
+        {"predicate": {"custom_model_data": 154}, "model": "custom/mk/tbasign2"}
     ]
 }
