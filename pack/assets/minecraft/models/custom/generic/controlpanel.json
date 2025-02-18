@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "controlpanelanimate",
-		"particle": "controlpanelanimate"
+		"2": "item/custom/generic/controlpanelanimate",
+		"particle": "item/custom/generic/controlpanelanimate"
 	},
 	"elements": [
 		{
