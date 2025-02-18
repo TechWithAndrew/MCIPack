@@ -123,6 +123,7 @@
         {"predicate": {"custom_model_data": 152}, "model": "custom/mk/tbacar"},
         {"predicate": {"custom_model_data": 153}, "model": "custom/mk/tbastandby"},
         {"predicate": {"custom_model_data": 154}, "model": "custom/mk/tbasign"},
-        {"predicate": {"custom_model_data": 155}, "model": "custom/generic/controlpanel"}
+        {"predicate": {"custom_model_data": 155}, "model": "custom/generic/controlpanel"},
+        {"predicate": {"custom_model_data": 156}, "model": "custom/dhs/rotrdoor2"}
     ]
 }
