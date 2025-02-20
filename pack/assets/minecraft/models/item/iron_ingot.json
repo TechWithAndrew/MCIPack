@@ -126,6 +126,8 @@
         {"predicate": {"custom_model_data": 155}, "model": "custom/generic/controlpanel"},
         {"predicate": {"custom_model_data": 156}, "model": "custom/dhs/rotrdoor2"},
         {"predicate": {"custom_model_data": 157}, "model": "custom/dhs/rotrcanon"},
-        {"predicate": {"custom_model_data": 158}, "model": "custom/dhs/rotrhangrail"}
+        {"predicate": {"custom_model_data": 158}, "model": "custom/dhs/rotrhangrail"},
+        {"predicate": {"custom_model_data": 159}, "model": "custom/dhs/tieadvancedrotr"},
+        {"predicate": {"custom_model_data": 160}, "model": "custom/dhs/tiefighterrotr"}
     ]
 }
