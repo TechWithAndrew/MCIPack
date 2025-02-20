@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "rotrcanon1",
-		"1": "rotrcanon2",
-		"particle": "rotrcanon1"
+		"0": "item/custom/rotrcanon1",
+		"1": "item/custom/rotrcanon2",
+		"particle": "item/custom/rotrcanon1"
 	},
 	"elements": [
 		{
