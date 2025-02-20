@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "fotie",
-		"1": "fotie2",
-		"particle": "fotie"
+		"0": "item/custom/fotie",
+		"1": "item/custom/fotie2",
+		"particle": "item/custom/fotie"
 	},
 	"elements": [
 		{
