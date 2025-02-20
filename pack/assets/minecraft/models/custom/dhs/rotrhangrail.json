@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "rotrhangrail1animate",
-		"4": "rotrhangrail3",
-		"5": "rotrhangrail2",
-		"6": "rotrhangrail1",
-		"particle": "rotrhangrail1"
+		"3": "item/custom/rotrhangrail1animate",
+		"4": "item/custom/rotrhangrail3",
+		"5": "item/custom/rotrhangrail2",
+		"6": "item/custom/rotrhangrail1",
+		"particle": "item/custom/rotrhangrail1"
 	},
 	"elements": [
 		{
