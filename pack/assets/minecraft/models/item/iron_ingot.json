@@ -128,6 +128,7 @@
         {"predicate": {"custom_model_data": 157}, "model": "custom/dhs/rotrcanon"},
         {"predicate": {"custom_model_data": 158}, "model": "custom/dhs/rotrhangrail"},
         {"predicate": {"custom_model_data": 159}, "model": "custom/dhs/tieadvancedrotr"},
-        {"predicate": {"custom_model_data": 160}, "model": "custom/dhs/tiefighterrotr"}
+        {"predicate": {"custom_model_data": 160}, "model": "custom/dhs/tiefighterrotr"},
+        {"predicate": {"custom_model_data": 161}, "model": "custom/dhs/andysfootprinttslnew"}
     ]
 }
