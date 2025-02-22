@@ -32,7 +32,8 @@
 		{"predicate": {"custom_model_data":217}, "model": "custom/dhs/rotrcar"},
 		{"predicate": {"custom_model_data":218}, "model": "custom/dhs/totvehiclecomplete"},
 		{"predicate": {"custom_model_data":219}, "model": "custom/dhs/rotrvehiclenewnew"},
-		{"predicate": {"custom_model_data":220}, "model": "custom/mk/mkrr"}
+		{"predicate": {"custom_model_data":220}, "model": "custom/mk/mkrr"},
+		{"predicate": {"custom_model_data":221}, "model": "custom/mk/wdwmk"}
 		
 
 	]
