@@ -113,7 +113,7 @@
         {"predicate": {"custom_model_data": 142}, "model": "custom/dhs/totflag"},
         {"predicate": {"custom_model_data": 143}, "model": "custom/dhs/exitsignmodel"},
         {"predicate": {"custom_model_data": 144}, "model": "custom/dhs/pictureifyoudaremodel"},
-        {"predicate": {"custom_model_data": 145}, "model": "custom/dhs/escapepod"},
+        {"predicate": {"custom_model_data": 145}, "model": "custom/dhs/escapepodnew"},
         {"predicate": {"custom_model_data": 146}, "model": "custom/item/spainairdpotc"},
         {"predicate": {"custom_model_data": 147}, "model": "custom/mk/potcwheel"},
         {"predicate": {"custom_model_data": 148}, "model": "custom/mk/wheel"},
