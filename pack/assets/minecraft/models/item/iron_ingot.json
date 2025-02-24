@@ -130,6 +130,7 @@
         {"predicate": {"custom_model_data": 159}, "model": "custom/dhs/tieadvancedrotr"},
         {"predicate": {"custom_model_data": 160}, "model": "custom/dhs/tiefighterrotr"},
         {"predicate": {"custom_model_data": 161}, "model": "custom/dhs/andysfootprinttslnew"},
-        {"predicate": {"custom_model_data": 162}, "model": "custom/dhs/awing"}
+        {"predicate": {"custom_model_data": 162}, "model": "custom/dhs/awing"},
+        {"predicate": {"custom_model_data": 163}, "model": "custom/dhs/xwingpoe"}
     ]
 }
