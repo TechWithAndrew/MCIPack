@@ -132,6 +132,7 @@
         {"predicate": {"custom_model_data": 161}, "model": "custom/dhs/andysfootprinttslnew"},
         {"predicate": {"custom_model_data": 162}, "model": "custom/dhs/awing"},
         {"predicate": {"custom_model_data": 163}, "model": "custom/dhs/xwingpoe"},
-        {"predicate": {"custom_model_data": 164}, "model": "custom/dhs/rotrentrancetarp"}
+        {"predicate": {"custom_model_data": 164}, "model": "custom/dhs/rotrentrancetarp"},
+        {"predicate": {"custom_model_data": 165}, "model": "custom/mk/tbasign"}
     ]
 }
