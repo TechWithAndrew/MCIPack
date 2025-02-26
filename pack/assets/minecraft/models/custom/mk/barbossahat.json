@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "barbossahatpotc1",
-		"4": "barbossahatpotc2",
-		"5": "barbossahatpotc3",
-		"6": "barbossahatpotc4"
+		"3": "item/custom/mk/barbossahatpotc1",
+		"4": "item/custom/mk/barbossahatpotc2",
+		"5": "item/custom/mk/barbossahatpotc3",
+		"6": "item/custom/mk/barbossahatpotc4"
 	},
 	"elements": [
 		{
