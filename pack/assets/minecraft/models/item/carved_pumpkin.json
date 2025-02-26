@@ -30,6 +30,8 @@
 		{"predicate": {"custom_model_data":24}, "model": "custom/item/hat/minnieheadband"},
 		{"predicate": {"custom_model_data":25}, "model": "custom/item/hat/christmasheadband"},
 		{"predicate": {"custom_model_data":26}, "model": "custom/item/hat/item-hat-santamickeyhat"}
+		{"predicate": {"custom_model_data":27}, "model": "custom/mk/barbossahat"},
+                {"predicate": {"custom_model_data":28}, "model": "custom/mk/spainardhatpotc"}
 
 
 		
