@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/mk/barbossaheadpotc1",
-		"1": "item/custom/mk/barbossaheadpotc2",
-		"2": "item/custom/mk/barbossaheadpotc3",
-		"3": "item/custom/mk/barbossaheadpotc4",
-		"4": "item/custom/mk/barbossaheadpotc5",
-		"5": "item/custom/mk/barbossaheadpotc6",
-		"6": "item/custom/mk/barbossaheadpotc7",
-		"particle": "item/custom/mk/barbossaheadpotc1"
+		"0": "barbossaheadpotc1",
+		"1": "barbossaheadpotc2",
+		"2": "barbossaheadpotc3",
+		"3": "barbossaheadpotc4",
+		"4": "barbossaheadpotc5",
+		"5": "barbossaheadpotc6",
+		"6": "barbossaheadpotc7",
+		"particle": "barbossaheadpotc1"
 	},
 	"elements": [
 		{
