@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "blastermarkrotr2-2",
-		"2": "blastermarkrotr2-1",
-		"particle": "blastermarkrotr2-1"
+		"1": "item/custom/blastermarkrotr2-2",
+		"2": "item/custom/blastermarkrotr2-1",
+		"particle": "item/custom/blastermarkrotr2-1"
 	},
 	"elements": [
 		{
