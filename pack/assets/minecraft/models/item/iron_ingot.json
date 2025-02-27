@@ -134,6 +134,8 @@
         {"predicate": {"custom_model_data": 163}, "model": "custom/dhs/xwingpoe"},
         {"predicate": {"custom_model_data": 164}, "model": "custom/dhs/rotrentrancetarp"},
         {"predicate": {"custom_model_data": 165}, "model": "custom/mk/tbafrontsign"},
-        {"predicate": {"custom_model_data": 166}, "model": "custom/mk/barbossaheadpotc"}
+        {"predicate": {"custom_model_data": 166}, "model": "custom/mk/barbossaheadpotc"},
+        {"predicate": {"custom_model_data": 167}, "model": "custom/dhs/blastermarkrotr1"},
+        {"predicate": {"custom_model_data": 168}, "model": "custom/dhs/blastermarkrotr2"}
     ]
 }
