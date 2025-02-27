@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blastermarkrotr1",
-		"1": "blastermarkrotr2",
-		"particle": "blastermarkrotr1"
+		"0": "item/custom/blastermarkrotr1",
+		"1": "item/custom/blastermarkrotr2",
+		"particle": "item/custom/blastermarkrotr1"
 	},
 	"elements": [
 		{
