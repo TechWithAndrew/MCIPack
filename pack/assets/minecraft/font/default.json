@@ -23,6 +23,8 @@
             {"type": "bitmap","file": "minecraft:_fonts/ranks/gr.png","ascent": 7,"height": 7,"chars": ["ꀊ"]},
             {"type": "bitmap","file": "minecraft:_fonts/ranks/gr-eme.png","ascent": 7,"height": 7,"chars": ["ꀋ"]},
 
+            {"type": "bitmap","file": "Minecraft:_fonts/ranks/modeler-lead.png","ascent": 7,"height": 7,"chars": ["ꁿ"]},
+        
             {"type": "bitmap","file": "minecraft:_fonts/ranks/guest.png","ascent": 7,"height": 7,"chars": ["ꀌ"]},
 
             {"type": "bitmap","file": "minecraft:_fonts/ranks/retired.png","ascent": 7,"height": 7,"chars": ["ꌔ"]},
