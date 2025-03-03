@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:_fonts/vignettenew.png",
-            "ascent": 750,
+            "ascent": 375,
             "height": 750,
             "chars": ["\uE001"]
         }
