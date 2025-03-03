@@ -5,7 +5,9 @@
             "file": "minecraft:_fonts/vignette.png",
             "ascent": 128,
             "height": 1280,
-            "chars": ["\uE001"]
+            "size": 10000.0,
+            "chars": [
+                "\uE001"]
         }
 
     ]
