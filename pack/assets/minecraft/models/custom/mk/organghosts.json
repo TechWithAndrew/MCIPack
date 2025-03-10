@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "OneDrive/Desktop/Documents/skull",
-		"particle": "OneDrive/Desktop/Documents/skull"
+		"0": "item/custom/mk/organghosts",
+		"particle": "item/custom/mk/organghosts"
 	},
 	"elements": [
 		{
