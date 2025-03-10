@@ -137,6 +137,7 @@
         {"predicate": {"custom_model_data": 166}, "model": "custom/mk/barbossaheadpotc"},
         {"predicate": {"custom_model_data": 167}, "model": "custom/dhs/blastermarkrotr1"},
         {"predicate": {"custom_model_data": 168}, "model": "custom/dhs/blastermarkrotr2"},
-        {"predicate": {"custom_model_data": 169}, "model": "custom/mk/candelabra"}
+        {"predicate": {"custom_model_data": 169}, "model": "custom/mk/candelabra"},
+        {"predicate": {"custom_model_data": 170}, "model": "custom/mk/organghosts"}
     ]
 }
