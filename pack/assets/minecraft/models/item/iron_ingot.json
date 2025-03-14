@@ -139,6 +139,7 @@
         {"predicate": {"custom_model_data": 168}, "model": "custom/dhs/blastermarkrotr2"},
         {"predicate": {"custom_model_data": 169}, "model": "custom/mk/candelabra"},
         {"predicate": {"custom_model_data": 170}, "model": "custom/mk/organghosts"},
-        {"predicate": {"custom_model_data": 171}, "model": "custom/mk/hmpiano"}
+        {"predicate": {"custom_model_data": 171}, "model": "custom/mk/hmpiano"},
+        {"predicate": {"custom_model_data": 172}, "model": "custom/mk/hmroof"}
     ]
 }
