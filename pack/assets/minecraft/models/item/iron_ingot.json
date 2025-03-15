@@ -141,6 +141,6 @@
         {"predicate": {"custom_model_data": 170}, "model": "custom/mk/organghosts"},
         {"predicate": {"custom_model_data": 171}, "model": "custom/mk/hmpiano"},
         {"predicate": {"custom_model_data": 172}, "model": "custom/mk/hmroof"},
-        {"predicate": {"custom_model_data": 173}, "model": "custom/dhs/ij_logo"}
+        {"predicate": {"custom_model_data": 173}, "model": "custom/mk/ij_logo"}
     ]
 }
