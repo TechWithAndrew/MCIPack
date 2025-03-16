@@ -57,7 +57,8 @@
 		{"predicate": {"custom_model_data":75}, "model": "custom/dhs/kylorenlightsaberfade4"},
 		{"predicate": {"custom_model_data":76}, "model": "custom/dhs/kylorenlightsaber"},
 		{"predicate": {"custom_model_data":77}, "model": "custom/mk/piratesword"},
-		{"predicate": {"custom_model_data":78}, "model": "custom/arms/kyloarmlightsaber"}
+		{"predicate": {"custom_model_data":78}, "model": "custom/arms/kyloarmlightsaber"},
+		{"predicate": {"custom_model_data":79}, "model": "custom/arms/misspiggy"}
 
 		
 	]
