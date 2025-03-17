@@ -48,21 +48,21 @@
 		{"predicate": {"custom_model_data":39}, "model": "magicbands/r2d2starwars"},
 
 		{"predicate": {"custom_model_data":40}, "model": "magicbands/merrysithmas"},
-		{"predicate": {"custom_model_data":41}, "model": "magicbands/mickeymouseholiday"}
+		{"predicate": {"custom_model_data":41}, "model": "magicbands/mickeymouseholiday"},
 
-		{"predicate": {"custom_model_data":42}, "model": "magicbands/beautyandthebeast"}
-		{"predicate": {"custom_model_data":43}, "model": "magicbands/kermitandfriends"}
-		{"predicate": {"custom_model_data":44}, "model": "magicbands/lightningmcqueen"}
-		{"predicate": {"custom_model_data":45}, "model": "magicbands/cherrymickey"}
-		{"predicate": {"custom_model_data":46}, "model": "magicbands/2025wdw"}
-		{"predicate": {"custom_model_data":47}, "model": "magicbands/iamnojedi"}
-		{"predicate": {"custom_model_data":48}, "model": "magicbands/tianaflower"}
-		{"predicate": {"custom_model_data":49}, "model": "magicbands/mickeyvalentines"}
-		{"predicate": {"custom_model_data":50}, "model": "magicbands/80thcaballeros"}
-		{"predicate": {"custom_model_data":51}, "model": "magicbands/whitepartnerstatue"}
-		{"predicate": {"custom_model_data":52}, "model": "magicbands/tinkerbelllight"}
-		{"predicate": {"custom_model_data":53}, "model": "magicbands/r2d2starwards"}
-		{"predicate": {"custom_model_data":54}, "model": "magicbands/grayglitter"}
+		{"predicate": {"custom_model_data":42}, "model": "magicbands/beautyandthebeast"},
+		{"predicate": {"custom_model_data":43}, "model": "magicbands/kermitandfriends"},
+		{"predicate": {"custom_model_data":44}, "model": "magicbands/lightningmcqueen"},
+		{"predicate": {"custom_model_data":45}, "model": "magicbands/cherrymickey"},
+		{"predicate": {"custom_model_data":46}, "model": "magicbands/2025wdw"},
+		{"predicate": {"custom_model_data":47}, "model": "magicbands/iamnojedi"},
+		{"predicate": {"custom_model_data":48}, "model": "magicbands/tianaflower"},
+		{"predicate": {"custom_model_data":49}, "model": "magicbands/mickeyvalentines"},
+		{"predicate": {"custom_model_data":50}, "model": "magicbands/80thcaballeros"},
+		{"predicate": {"custom_model_data":51}, "model": "magicbands/whitepartnerstatue"},
+		{"predicate": {"custom_model_data":52}, "model": "magicbands/tinkerbelllight"},
+		{"predicate": {"custom_model_data":53}, "model": "magicbands/r2d2starwards"},
+		{"predicate": {"custom_model_data":54}, "model": "magicbands/grayglitter"},
 		{"predicate": {"custom_model_data":55}, "model": "magicbands/monstersincmike"}
 		
 	
