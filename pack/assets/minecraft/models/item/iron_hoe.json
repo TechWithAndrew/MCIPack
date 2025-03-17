@@ -6,7 +6,7 @@
 	
 	"overrides":[
 	
-		{"predicate": {"custom_model_data":1}, "model": "trashcans/wdwmk/tmrlndtrashcan"}
-		
+		{"predicate": {"custom_model_data":1}, "model": "trashcans/wdwmk/tmrlndtrashcan"},
+		{"predicate": {"custom_model_data":2}, "model": "trashcans/wdwmk/dumbotrashcan"}
 	]
 }
