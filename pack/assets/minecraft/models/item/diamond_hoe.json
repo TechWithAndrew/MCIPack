@@ -62,7 +62,8 @@
 		{"predicate": {"custom_model_data":51}, "model": "magicbands/whitepartnerstatue"},
 		{"predicate": {"custom_model_data":52}, "model": "magicbands/tinkerbelllight"},
 		{"predicate": {"custom_model_data":53}, "model": "magicbands/grayglitter"},
-		{"predicate": {"custom_model_data":54}, "model": "magicbands/monstersincmike"}
+		{"predicate": {"custom_model_data":54}, "model": "magicbands/monstersincmike"},
+		{"predicate": {"custom_model_data":55}, "model": "magicbands/standingmickey"}
 		
 	
 	]
