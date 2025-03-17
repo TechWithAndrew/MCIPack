@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "dumbotrashcan",
-		"particle": "dumbotrashcan"
+		"2": "item/custom/mk/dumbotrashcan",
+		"particle": "item/custom/mk/dumbotrashcan"
 	},
 	"elements": [
 		{
