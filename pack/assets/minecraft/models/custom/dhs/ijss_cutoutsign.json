@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "ijss_cutoutsign",
+	"parent": "item/custom/ijss_cutoutsign",
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "ijss_cutoutsign",
