@@ -144,7 +144,7 @@
         {"predicate": {"custom_model_data": 173}, "model": "custom/dhs/ij_logo"},
         {"predicate": {"custom_model_data": 174}, "model": "custom/mk/dumbopodium"},
         {"predicate": {"custom_model_data": 175}, "model": "custom/mk/dumbolamp"},
-        {"predicate": {"custom_model_data": 176}, "model": "custom/mk/ijss_cutout"}
+        {"predicate": {"custom_model_data": 176}, "model": "custom/dhs/ijss_cutout"}
     
     ]
 }
