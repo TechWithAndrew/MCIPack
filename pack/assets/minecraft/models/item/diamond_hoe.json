@@ -61,9 +61,8 @@
 		{"predicate": {"custom_model_data":50}, "model": "magicbands/80thcaballeros"},
 		{"predicate": {"custom_model_data":51}, "model": "magicbands/whitepartnerstatue"},
 		{"predicate": {"custom_model_data":52}, "model": "magicbands/tinkerbelllight"},
-		{"predicate": {"custom_model_data":53}, "model": "magicbands/r2d2darkstarwars"},
-		{"predicate": {"custom_model_data":54}, "model": "magicbands/grayglitter"},
-		{"predicate": {"custom_model_data":55}, "model": "magicbands/monstersincmike"}
+		{"predicate": {"custom_model_data":53}, "model": "magicbands/grayglitter"},
+		{"predicate": {"custom_model_data":54}, "model": "magicbands/monstersincmike"}
 		
 	
 	]
