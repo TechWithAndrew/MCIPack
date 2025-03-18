@@ -150,7 +150,8 @@
         {"predicate": {"custom_model_data": 179}, "model": "custom/mk/goldendumbo"},
         {"predicate": {"custom_model_data": 180}, "model": "custom/mk/dumbonoarm"},
         {"predicate": {"custom_model_data": 181}, "model": "custom/dhs/pre1screenthingred"},
-        {"predicate": {"custom_model_data": 182}, "model": "custom/mk/ppfbluetent"}
+        {"predicate": {"custom_model_data": 182}, "model": "custom/mk/ppfbluetent"},
+        {"predicate": {"custom_model_data": 183}, "model": "custom/mk/ppforangetent"}
     
     ]
 }
