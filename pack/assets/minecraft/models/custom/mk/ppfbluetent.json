@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "ppfbluetent",
+		"particle": "ppfbluetent"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 8],
+			"to": [11, 9.8, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 5], "texture": "#0"},
+				"east": {"uv": [0, 5, 0.5, 10], "texture": "#0"},
+				"south": {"uv": [4, 0, 8, 5], "texture": "#0"},
+				"west": {"uv": [0.5, 5, 1, 10], "texture": "#0"},
+				"up": {"uv": [5, 5.5, 1, 5], "texture": "#0"},
+				"down": {"uv": [9, 5, 5, 5.5], "texture": "#0"}
+			}
+		}
+	]
+}
