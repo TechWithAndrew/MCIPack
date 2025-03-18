@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "ppftealtent",
-		"particle": "ppftealtent"
+		"0": "item/custom/ppftealtent",
+		"particle": "item/custom/ppftealtent"
 	},
 	"elements": [
 		{
