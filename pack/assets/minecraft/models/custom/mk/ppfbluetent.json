@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "ppfbluetent",
-		"particle": "ppfbluetent"
+		"0": "item/customppfbluetent",
+		"particle": "item/customppfbluetent"
 	},
 	"elements": [
 		{
