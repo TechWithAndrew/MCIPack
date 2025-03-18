@@ -147,7 +147,8 @@
         {"predicate": {"custom_model_data": 176}, "model": "custom/dhs/ijss_cutout"},
         {"predicate": {"custom_model_data": 177}, "model": "custom/dhs/ijss_cutoutsign"},
         {"predicate": {"custom_model_data": 178}, "model": "custom/dhs/ij_net"},
-        {"predicate": {"custom_model_data": 179}, "model": "custom/mk/goldendumbo"}
+        {"predicate": {"custom_model_data": 179}, "model": "custom/mk/goldendumbo"},
+        {"predicate": {"custom_model_data": 180}, "model": "custom/mk/dumbonoarm"}
     
     ]
 }
