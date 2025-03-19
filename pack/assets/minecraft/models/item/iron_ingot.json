@@ -157,7 +157,8 @@
         {"predicate": {"custom_model_data": 186}, "model": "custom/mk/ppfbridge"},
         {"predicate": {"custom_model_data": 187}, "model": "custom/mk/ppfbed"},
         {"predicate": {"custom_model_data": 188}, "model": "custom/mk/dumboarm"},
-        {"predicate": {"custom_model_data": 189}, "model": "custom/mk/flrrsign"}
+        {"predicate": {"custom_model_data": 189}, "model": "custom/mk/flrrsign"},
+        {"predicate": {"custom_model_data": 190}, "model": "custom/mk/dumbo_d"}
     
     ]
 }
