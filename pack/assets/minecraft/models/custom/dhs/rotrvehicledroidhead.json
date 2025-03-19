@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "rotrvehicledroidhead2",
-		"2": "texturevehicledroidhead3",
-		"3": "texturevehicledroid3",
-		"4": "texturevehicledroidhead5",
-		"6": "texturevehicledroid5",
-		"7": "texturevehicledroid6",
-		"particle": "texturevehicledroidhead3"
+		"1": "item/custom/rotrvehicledroidhead2",
+		"2": "item/custom/texturevehicledroidhead3",
+		"3": "item/custom/texturevehicledroid3",
+		"4": "item/custom/texturevehicledroidhead5",
+		"6": "item/custom/texturevehicledroid5",
+		"7": "item/custom/texturevehicledroid6",
+		"particle": "item/custom/texturevehicledroidhead3"
 	},
 	"elements": [
 		{
