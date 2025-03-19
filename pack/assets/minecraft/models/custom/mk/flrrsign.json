@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"2": "flrr-texture",
-		"3": "texture",
-		"4": "traintexture",
+		"2": "item/custom/mk/flrr-texture",
+		"3": "item/custom/mk/texture",
+		"4": "item/custom/mk/traintexture",
 		"particle": "flrr-texture"
 	},
 	"elements": [
