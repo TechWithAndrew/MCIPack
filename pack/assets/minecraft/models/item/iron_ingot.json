@@ -81,7 +81,7 @@
         {"predicate": {"custom_model_data": 110}, "model": "custom/dhs/atatgun"},
         {"predicate": {"custom_model_data": 111}, "model": "custom/item/tbaarm"},
         {"predicate": {"custom_model_data": 112}, "model": "custom/dhs/rotrvehicledroidnew"},
-        {"predicate": {"custom_model_data": 113}, "model": "custom/dhs/rotrvehicledroidheadnew"},
+        {"predicate": {"custom_model_data": 113}, "model": "custom/dhs/rotrvehicledroidhead"},
         {"predicate": {"custom_model_data": 114}, "model": "custom/dhs/rotrstandby"},
         {"predicate": {"custom_model_data": 115}, "model": "custom/dhs/cokedroid"},
         {"predicate": {"custom_model_data": 116}, "model": "custom/dhs/cokedroidhead"},
