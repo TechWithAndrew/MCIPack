@@ -5,7 +5,7 @@
 		"2": "item/custom/mk/flrr-texture",
 		"3": "item/custom/mk/texture",
 		"4": "item/custom/mk/traintexture",
-		"particle": "flrr-texture"
+		"particle": "item/custom/mk/flrr-texture"
 	},
 	"elements": [
 		{
