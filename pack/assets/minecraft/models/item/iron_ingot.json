@@ -159,7 +159,8 @@
         {"predicate": {"custom_model_data": 188}, "model": "custom/mk/dumboarm"},
         {"predicate": {"custom_model_data": 189}, "model": "custom/mk/flrrsign"},
         {"predicate": {"custom_model_data": 190}, "model": "custom/mk/dumbo_d"},
-        {"predicate": {"custom_model_data": 191}, "model": "custom/mk/dumbostandby"}
+        {"predicate": {"custom_model_data": 191}, "model": "custom/mk/dumbostandby"},
+        {"predicate": {"custom_model_data": 192}, "model": "custom/mk/dumbolightning"}
     
     ]
 }
