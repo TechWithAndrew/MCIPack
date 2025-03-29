@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "ppfvehicle",
-		"particle": "ppfvehicle"
+		"0": "item/custom/mk/ppfvehicle",
+		"particle": "item/custom/mk/ppfvehicle"
 	},
 	"elements": [
 		{
