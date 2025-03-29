@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/kylocape",
-		"particle": "block/kylocape"
+		"0": "item/custom/kylocape",
+		"particle": "item/custom/kylocape"
 	},
 	"elements": [
 		{
