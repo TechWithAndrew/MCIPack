@@ -162,7 +162,7 @@
         {"predicate": {"custom_model_data": 191}, "model": "custom/mk/dumbostandby"},
         {"predicate": {"custom_model_data": 192}, "model": "custom/mk/dumbolightning"},
         {"predicate": {"custom_model_data": 193}, "model": "custom/mk/ppfbigben"},
-        {"predicate": {"custom_model_data": 194}, "model": "custom/mk/ppstandby"}
+        {"predicate": {"custom_model_data": 194}, "model": "custom/mk/ppfstandby"}
     
     ]
 }
