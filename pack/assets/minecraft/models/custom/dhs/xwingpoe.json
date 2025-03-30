@@ -3,8 +3,8 @@
 	"parent": "xwingpoe",
 	"texture_size": [8, 8],
 	"textures": {
-		"4": "xwingpoe",
-		"particle": "xwingpoe"
+		"4": "item/custom/xwingpoe",
+		"particle": "item/custom/xwingpoe"
 	},
 	"elements": [
 		{
