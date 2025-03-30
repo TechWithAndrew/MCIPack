@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "bekchair1new",
-		"2": "bekchair2",
-		"particle": "bekchair1new"
+		"0": "item/custom/bekchair1new",
+		"2": "item/custom/bekchair2",
+		"particle": "item/custom/bekchair1new"
 	},
 	"elements": [
 		{
