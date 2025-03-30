@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"4": "texturexwingblue",
-		"particle": "texturexwingblue"
+		"4": "item/custom/texturexwingblue",
+		"particle": "item/custom/texturexwingblue"
 	},
 	"elements": [
 		{
