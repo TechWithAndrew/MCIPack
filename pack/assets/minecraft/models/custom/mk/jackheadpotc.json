@@ -1,17 +1,17 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "jackheadpotc1",
-		"1": "jackheadpotc2",
-		"2": "jackheadpotc3",
-		"3": "jackheadpotc4",
-		"4": "jackheadpotc5",
-		"5": "jackheadpotc6",
-		"6": "jackheadpotc7",
-		"7": "jackheadpotc8",
-		"8": "jackheadpotc9",
-		"9": "texturejackheadpotc10",
-		"particle": "jackheadpotc1"
+		"0": "item/custom/mk/jackheadpotc1",
+		"1": "item/custom/mk/jackheadpotc2",
+		"2": "item/custom/mk/jackheadpotc3",
+		"3": "item/custom/mk/jackheadpotc4",
+		"4": "item/custom/mk/jackheadpotc5",
+		"5": "item/custom/mk/jackheadpotc6",
+		"6": "item/custom/mk/jackheadpotc7",
+		"7": "item/custom/mk/jackheadpotc8",
+		"8": "item/custom/mk/jackheadpotc9",
+		"9": "item/custom/mk/texturejackheadpotc10",
+		"particle": "item/custom/mk/jackheadpotc1"
 	},
 	"elements": [
 		{
