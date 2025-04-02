@@ -168,7 +168,8 @@
         {"predicate": {"custom_model_data": 197}, "model": "custom/dhs/rotrunloadsign"},
         {"predicate": {"custom_model_data": 198}, "model": "custom/dhs/bekstanding"},
         {"predicate": {"custom_model_data": 199}, "model": "custom/dhs/xwingblue"},
-        {"predicate": {"custom_model_data": 200}, "model": "custom/dhs/xwingblueopen"}
+        {"predicate": {"custom_model_data": 200}, "model": "custom/dhs/xwingblueopen"},
+        {"predicate": {"custom_model_data": 201}, "model": "custom/mk/jackheadpotc"}
     
     ]
 }
