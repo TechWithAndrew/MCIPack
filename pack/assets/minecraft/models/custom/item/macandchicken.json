@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tray",
-		"1": "macandchicken",
-		"particle": "tray"
+		"0": "item/custom/tray",
+		"1": "item/custom/macandchicken",
+		"particle": "item/custom/tray"
 	},
 	"elements": [
 		{
