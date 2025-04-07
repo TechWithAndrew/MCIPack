@@ -38,6 +38,7 @@
 	{"predicate": {"custom_model_data":30}, "model": "custom/item/gebottlecoke1new"},
 	{"predicate": {"custom_model_data":31}, "model": "custom/item/gebottlecoke2new"},
 	{"predicate": {"custom_model_data":32}, "model": "custom/item/gebottlespritenew"},
-	{"predicate": {"custom_model_data":33}, "model": "custom/item/cocacolacan"}
+	{"predicate": {"custom_model_data":33}, "model": "custom/item/cocacolacan"},
+	{"predicate": {"custom_model_data":34}, "model": "custom/item/macandchicken"}
 	]
 }
