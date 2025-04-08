@@ -170,7 +170,8 @@
         {"predicate": {"custom_model_data": 199}, "model": "custom/dhs/xwingblue"},
         {"predicate": {"custom_model_data": 200}, "model": "custom/dhs/xwingblueopen"},
         {"predicate": {"custom_model_data": 201}, "model": "custom/mk/jackheadpotc"},
-        {"predicate": {"custom_model_data": 202}, "model": "custom/mk/skullrockredo"}
+        {"predicate": {"custom_model_data": 202}, "model": "custom/mk/skullrockredo"},
+        {"predicate": {"custom_model_data": 203}, "model": "custom/mk/gator1ppf"}
     
     ]
 }
