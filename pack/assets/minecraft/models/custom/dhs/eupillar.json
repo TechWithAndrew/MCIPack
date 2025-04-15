@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/texture",
-		"1": "block/texture",
-		"particle": "block/texture"
+		"0": "item/custom/eupillar1",
+		"1": "item/custom/eupillar2",
+		"particle": "item/custom/eupillar1"
 	},
 	"elements": [
 		{
