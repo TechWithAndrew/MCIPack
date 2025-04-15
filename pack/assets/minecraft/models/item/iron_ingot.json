@@ -174,7 +174,7 @@
         {"predicate": {"custom_model_data": 203}, "model": "custom/mk/gator1ppf"},
         {"predicate": {"custom_model_data": 204}, "model": "custom/dhs/euflowerpot"},
         {"predicate": {"custom_model_data": 205}, "model": "custom/dhs/vipentrance"},
-        {"predicate": {"custom_model_data": 206}, "model": "custom/vipentrance"}
+        {"predicate": {"custom_model_data": 206}, "model": "custom/eupillar"}
     
     ]
 }
