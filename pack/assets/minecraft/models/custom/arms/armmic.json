@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"1": "armtone1",
-		"2": "armmic",
-		"particle": "armmic"
+		"1": "item/custom/arms/armtone1",
+		"2": "item/custom/arms/armmic",
+		"particle": "item/custom/arms/armmic"
 	},
 	"elements": [
 		{
