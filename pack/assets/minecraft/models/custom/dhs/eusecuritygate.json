@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "eusecuritygate",
-		"2": "eusecuritygate2",
-		"particle": "eusecuritygate2"
+		"1": "item/custom/eusecuritygate",
+		"2": "item/custom/eusecuritygate2",
+		"particle": "item/custom/eusecuritygate2"
 	},
 	"elements": [
 		{
