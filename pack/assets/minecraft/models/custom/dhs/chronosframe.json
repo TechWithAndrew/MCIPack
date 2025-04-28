@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "chronosframe",
-		"1": "chronosframe2",
-		"2": "chronosframe3",
-		"particle": "chronosframe"
+		"0": "item/custom/dhs/chronosframe",
+		"1": "item/custom/dhs/chronosframe2",
+		"2": "item/custom/dhs/chronosframe3",
+		"particle": "item/custom/dhs/chronosframe"
 	},
 	"elements": [
 		{
