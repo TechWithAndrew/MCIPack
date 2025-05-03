@@ -178,6 +178,7 @@
         {"predicate": {"custom_model_data": 207}, "model": "custom/dhs/eusecuritygate"},
         {"predicate": {"custom_model_data": 208}, "model": "custom/dhs/chronosframe"},
         {"predicate": {"custom_model_data": 209}, "model": "custom/dhs/euplanter"}
+        {"predicate": {"custom_model_data": 210}, "model": "custom/dhs/totbench1"}
     
     ]
 }
