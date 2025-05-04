@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "chronosframenew3",
-		"3": "chronosframenew",
-		"4": "chronosframenew2"
+		"2": "item/custom/chronosframenew3",
+		"3": "item/custom/chronosframenew",
+		"4": "item/custom/chronosframenew2"
 	},
 	"elements": [
 		{
