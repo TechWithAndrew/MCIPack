@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "eupot",
-		"particle": "eupot"
+		"0": "item/custom/eupot",
+		"particle": "item/custom/eupot"
 	},
 	"elements": [
 		{
