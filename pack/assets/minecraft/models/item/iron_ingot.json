@@ -186,6 +186,7 @@
         {"predicate": {"custom_model_data": 215}, "model": "custom/dhs/eupot"},
         {"predicate": {"custom_model_data": 216}, "model": "custom/dhs/eupot2"},
         {"predicate": {"custom_model_data": 217}, "model": "custom/dhs/eutrash"}
+        {"predicate": {"custom_model_data": 218}, "model": "custom/dhs/eutrashrecycle"}
     
-    ]
+    ] 
 }
