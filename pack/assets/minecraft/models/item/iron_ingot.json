@@ -184,7 +184,8 @@
         {"predicate": {"custom_model_data": 213}, "model": "custom/dhs/chronosframenew"},
         {"predicate": {"custom_model_data": 214}, "model": "custom/dhs/chronosframenew"},
         {"predicate": {"custom_model_data": 215}, "model": "custom/dhs/eupot"},
-        {"predicate": {"custom_model_data": 216}, "model": "custom/dhs/eupot2"}
+        {"predicate": {"custom_model_data": 216}, "model": "custom/dhs/eupot2"},
+        {"predicate": {"custom_model_data": 217}, "model": "custom/dhs/eutrash"}
     
     ]
 }
