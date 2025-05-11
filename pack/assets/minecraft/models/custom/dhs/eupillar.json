@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"parent": "eupillarnew",
 	"textures": {
-		"0": "eupillar1 (1)",
-		"1": "celestialparklamppost",
-		"particle": "eupillar1 (1)"
+		"0": "item/custom/eupillar1",
+		"1": "item/custom/celestialparklamppost",
+		"particle": "item/custom/eupillar1"
 	},
 	"elements": [
 		{
