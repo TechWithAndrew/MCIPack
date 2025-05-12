@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "euentrancegate",
-		"1": "euentrancegate2",
-		"particle": "euentrancegate"
+		"0": "item/custom/euentrancegate",
+		"1": "item/custom/euentrancegate2",
+		"particle": "item/custom/euentrancegate"
 	},
 	"elements": [
 		{
