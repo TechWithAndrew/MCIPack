@@ -188,7 +188,8 @@
         {"predicate": {"custom_model_data": 217}, "model": "custom/dhs/eutrash"},
         {"predicate": {"custom_model_data": 218}, "model": "custom/dhs/eutrashrecycle"},
         {"predicate": {"custom_model_data": 219}, "model": "custom/dhs/celestialparklamppost"},
-        {"predicate": {"custom_model_data": 220}, "model": "custom/dhs/euentrancegate"}
+        {"predicate": {"custom_model_data": 220}, "model": "custom/dhs/euentrancegate"},
+        {"predicate": {"custom_model_data": 221}, "model": "custom/dhs/chronosouterring"}
     
     ] 
 }
