@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "chronosinnerring",
-		"2": "chronosinnerring2",
-		"particle": "chronosinnerring"
+		"1": "item/custom/chronosinnerring",
+		"2": "item/custom/chronosinnerring2",
+		"particle": "item/custom/chronosinnerring"
 	},
 	"elements": [
 		{
