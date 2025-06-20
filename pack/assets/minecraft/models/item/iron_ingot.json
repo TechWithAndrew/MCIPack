@@ -191,7 +191,8 @@
         {"predicate": {"custom_model_data": 220}, "model": "custom/dhs/euentrancegate"},
         {"predicate": {"custom_model_data": 221}, "model": "custom/dhs/chronosouterring"},
         {"predicate": {"custom_model_data": 222}, "model": "custom/dhs/chronoscelestianmale"},
-        {"predicate": {"custom_model_data": 223}, "model": "custom/dhs/chronosinnerring"}
+        {"predicate": {"custom_model_data": 223}, "model": "custom/dhs/chronosinnerring"},
+        {"predicate": {"custom_model_data": 224}, "model": "custom/dhs/rotrpre3door"}
     
     ] 
 }
