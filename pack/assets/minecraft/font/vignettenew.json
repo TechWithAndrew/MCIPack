@@ -4,7 +4,7 @@
             "type": "bitmap",
             "file": "minecraft:_fonts/vignettenew.png",
             "ascent": 117,
-            "height": 250,
+            "height": 260,
             "chars": ["\uE001"]
         }
 
