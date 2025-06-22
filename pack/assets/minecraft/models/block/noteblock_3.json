@@ -1,6 +1,6 @@
 {
   "parent": "block/noteblock",
   "textures": {
-    "all": "minecraft:block/noteblock_3"
+    "all": "block/noteblock_3"
   }
 }
