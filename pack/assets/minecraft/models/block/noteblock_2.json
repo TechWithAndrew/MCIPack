@@ -1,6 +1,0 @@
-{
-  "parent": "block/noteblock",
-  "textures": {
-    "all": "block/noteblock_2"
-  }
-}
