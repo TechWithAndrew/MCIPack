@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/tianacrown",
-		"particle": "block/tianacrown"
+		"0": "item/custom//tianacrown",
+		"particle": "item/custom/tianacrown"
 	},
 	"elements": [
 		{
