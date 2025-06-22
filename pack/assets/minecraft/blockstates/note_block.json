@@ -1,8 +1,11 @@
 {
   "variants": {
-    "note=0": { "model": "block/noteblock_0" },
-    "note=1": { "model": "block/noteblock_1" },
-    "note=2": { "model": "block/noteblock_2" },
-    "note=3": { "model": "block/noteblock_3" }
-  }
-}
+    "instrument=harp,note=0": {
+      "model": "block/note_block/instruments/harp/0"
+    },
+    "instrument=harp,note=1": {
+      "model": "block/note_block/instruments/harp/1"
+    },
+    "instrument=harp,note=2": {
+      "model": "block/note_block/instruments/harp/2"
+    }
