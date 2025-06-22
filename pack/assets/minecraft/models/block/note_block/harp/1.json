@@ -1,6 +1,6 @@
 {
   "parent": "block/noteblock",
   "textures": {
-    "note": "customnotes/noteblock_1",
+    "note": "mci/noteblock/notes/harp/1",
   }
 }
