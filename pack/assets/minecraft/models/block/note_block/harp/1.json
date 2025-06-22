@@ -1,6 +1,7 @@
 {
   "parent": "block/noteblock",
   "textures": {
-    "note": "block/noteblock_1"
+    "note": "block/noteblock_1",
+    "instrument": "block/noteblock/instruments/harp"
   }
 }
