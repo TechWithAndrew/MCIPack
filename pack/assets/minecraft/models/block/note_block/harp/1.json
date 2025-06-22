@@ -1,6 +1,6 @@
 {
   "parent": "block/noteblock",
   "textures": {
-    "notes": "block/noteblock_1"
+    "note": "block/noteblock_1"
   }
 }
