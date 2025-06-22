@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "note=0": { "model": "block/noteblock_0" },
+    "note=1": { "model": "block/noteblock_1" },
+    "note=2": { "model": "block/noteblock_2" }
+  }
+}
