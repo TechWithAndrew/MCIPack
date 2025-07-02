@@ -24,5 +24,6 @@
   "menu.game": "MCIlluminations",
   "container.inventory": "",
   "block.minecraft.cherry_trapdoor": "Silver Trapdoor",
-  "block.minecraft.budding_amethyst": "Tan Brick"
+  "block.minecraft.budding_amethyst": "Tan Brick",
+  "itemGroup.buildingBlocks": "&fBuilding Blocks",
 }
