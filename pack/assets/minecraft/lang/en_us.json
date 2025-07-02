@@ -25,5 +25,5 @@
   "container.inventory": "",
   "block.minecraft.cherry_trapdoor": "Silver Trapdoor",
   "block.minecraft.budding_amethyst": "Tan Brick",
-  "itemGroup.buildingBlocks": "&fBuilding Blocks",
+  "itemGroup.buildingBlocks": "§fBuilding Blocks",
 }
