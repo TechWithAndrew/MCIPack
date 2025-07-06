@@ -1,0 +1,45 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/minecart"
+    },
+    "entries": [
+      { "threshold": 6, "model": { "type": "model", "model": "custom/mk/ms/mk-ms-trolley" } },
+      { "threshold": 14, "model": { "type": "model", "model": "custom/mk/tl/buzz/mk-tl-buzz-car" } },
+      { "threshold": 15, "model": { "type": "model", "model": "custom/mk/lm/mk-lm-car" } },
+      { "threshold": 16, "model": { "type": "model", "model": "custom/mk/tl/people-mover/people-mover-car" } },
+      { "threshold": 17, "model": { "type": "model", "model": "custom/mk/7-dwarfs-minetrain" } },
+      { "threshold": 18, "model": { "type": "model", "model": "custom/mk/small-world-car" } },
+      { "threshold": 200, "model": { "type": "model", "model": "custom/mk/tl/speedway-car" } },
+      { "threshold": 201, "model": { "type": "model", "model": "custom/mk/tl/speedway-car-blue" } },
+      { "threshold": 202, "model": { "type": "model", "model": "custom/mk/tl/speedway-car-red" } },
+      { "threshold": 203, "model": { "type": "model", "model": "custom/mk/tl/speedway-car-green" } },
+      { "threshold": 204, "model": { "type": "model", "model": "custom/mk/poohride" } },
+      { "threshold": 205, "model": { "type": "model", "model": "custom/mk/peterpanboat" } },
+      { "threshold": 206, "model": { "type": "model", "model": "custom/mk/mk-teacupblue" } },
+      { "threshold": 207, "model": { "type": "model", "model": "custom/mk/tl/lightcycle" } },
+      { "threshold": 208, "model": { "type": "model", "model": "custom/mk/tl/mk-astro" } },
+      { "threshold": 209, "model": { "type": "model", "model": "custom/mk/tl/troncycleorange" } },
+      { "threshold": 210, "model": { "type": "model", "model": "custom/mk/bigthunder" } },
+      { "threshold": 211, "model": { "type": "model", "model": "custom/mk/aladdin" } },
+      { "threshold": 212, "model": { "type": "model", "model": "custom/mk/jungle-cruise-boat" } },
+      { "threshold": 213, "model": { "type": "model", "model": "custom/mk/pirates-boat" } },
+      { "threshold": 214, "model": { "type": "model", "model": "custom/mk/bigthundermain" } },
+      { "threshold": 215, "model": { "type": "model", "model": "custom/mk/hauntedmansioncar" } },
+      { "threshold": 216, "model": { "type": "model", "model": "custom/mk/newtianalog" } },
+      { "threshold": 217, "model": { "type": "model", "model": "custom/dhs/rotrcar" } },
+      { "threshold": 218, "model": { "type": "model", "model": "custom/dhs/totvehiclecomplete" } },
+      { "threshold": 219, "model": { "type": "model", "model": "custom/dhs/rotrvehiclenewnew" } },
+      { "threshold": 220, "model": { "type": "model", "model": "custom/mk/mkrr" } },
+      { "threshold": 221, "model": { "type": "model", "model": "custom/mk/wdwmk" } },
+      { "threshold": 222, "model": { "type": "model", "model": "custom/mk/hmride" } },
+      { "threshold": 223, "model": { "type": "model", "model": "custom/mk/pmvehiclenew" } },
+      { "threshold": 224, "model": { "type": "model", "model": "custom/mk/dumbo" } },
+      { "threshold": 225, "model": { "type": "model", "model": "custom/mk/ppfvehicle" } },
+      { "threshold": 226, "model": { "type": "model", "model": "custom/wdwbus" } }
+    ]
+  }
+}

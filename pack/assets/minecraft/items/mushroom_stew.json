@@ -1,0 +1,46 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/mushroom_stew"
+    },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "custom/item/food/item-food-coffee" } },
+      { "threshold": 2, "model": { "type": "model", "model": "custom/item/food/item-food-milkshake-vanilla" } },
+      { "threshold": 3, "model": { "type": "model", "model": "custom/item/food/item-food-milkshake-mint" } },
+      { "threshold": 4, "model": { "type": "model", "model": "custom/item/food/item-food-burger" } },
+      { "threshold": 5, "model": { "type": "model", "model": "custom/item/food/item-food-popcorn" } },
+      { "threshold": 6, "model": { "type": "model", "model": "custom/item/food/item-food-hotdog" } },
+      { "threshold": 7, "model": { "type": "model", "model": "custom/item/food/item-food-banana-split" } },
+      { "threshold": 8, "model": { "type": "model", "model": "custom/item/food/item-food-pizza" } },
+      { "threshold": 9, "model": { "type": "model", "model": "custom/item/food/item-food-corndog" } },
+      { "threshold": 10, "model": { "type": "model", "model": "custom/item/food/item-food-lollipop-red" } },
+      { "threshold": 11, "model": { "type": "model", "model": "custom/item/food/item-food-lollipop-orange" } },
+      { "threshold": 12, "model": { "type": "model", "model": "custom/item/food/item-food-lollipop-yellow" } },
+      { "threshold": 13, "model": { "type": "model", "model": "custom/item/food/item-food-lollipop-green" } },
+      { "threshold": 14, "model": { "type": "model", "model": "custom/item/food/item-food-lollipop-blue" } },
+      { "threshold": 15, "model": { "type": "model", "model": "custom/item/food/item-food-lollipop-purple" } },
+      { "threshold": 16, "model": { "type": "model", "model": "custom/item/food/item-food-lollipop-pink" } },
+      { "threshold": 17, "model": { "type": "model", "model": "custom/item/food/item-food-cotton-candy-pink" } },
+      { "threshold": 18, "model": { "type": "model", "model": "custom/item/food/item-food-cotton-candy-purple" } },
+      { "threshold": 19, "model": { "type": "model", "model": "custom/item/food/item-food-cotton-candy-blue" } },
+      { "threshold": 20, "model": { "type": "model", "model": "custom/item/food/item-food-salad" } },
+      { "threshold": 21, "model": { "type": "model", "model": "custom/item/food/item-food-fish-n-chips" } },
+      { "threshold": 22, "model": { "type": "model", "model": "custom/item/food/item-food-salmon" } },
+      { "threshold": 23, "model": { "type": "model", "model": "custom/item/food/item-food-water" } },
+      { "threshold": 24, "model": { "type": "model", "model": "custom/item/food/item-food-jerk-chicken" } },
+      { "threshold": 25, "model": { "type": "model", "model": "custom/item/food/item-food-elote" } },
+      { "threshold": 26, "model": { "type": "model", "model": "custom/item/food/item-food-lobster" } },
+      { "threshold": 27, "model": { "type": "model", "model": "custom/item/food/item-food-macaroons" } },
+      { "threshold": 28, "model": { "type": "model", "model": "custom/item/food/item-food-croissant" } },
+      { "threshold": 29, "model": { "type": "model", "model": "custom/item/food/item-food-dolwhip" } },
+      { "threshold": 30, "model": { "type": "model", "model": "custom/item/gebottlecoke1new" } },
+      { "threshold": 31, "model": { "type": "model", "model": "custom/item/gebottlecoke2new" } },
+      { "threshold": 32, "model": { "type": "model", "model": "custom/item/gebottlespritenew" } },
+      { "threshold": 33, "model": { "type": "model", "model": "custom/item/cocacolacan" } },
+      { "threshold": 34, "model": { "type": "model", "model": "custom/item/macandchicken" } }
+    ]
+  }
+}

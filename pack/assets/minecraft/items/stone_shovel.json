@@ -1,0 +1,22 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/stone_shovel"
+    },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "custom/arms/totworkerarm" } },
+      { "threshold": 2, "model": { "type": "model", "model": "custom/arms/kyloarm" } },
+      { "threshold": 3, "model": { "type": "model", "model": "custom/arms/kyloarmlightsabernew" } },
+      { "threshold": 4, "model": { "type": "model", "model": "custom/arms/armtone1" } },
+      { "threshold": 5, "model": { "type": "model", "model": "custom/arms/armtone2" } },
+      { "threshold": 6, "model": { "type": "model", "model": "custom/arms/armtone3" } },
+      { "threshold": 7, "model": { "type": "model", "model": "custom/arms/armtone4" } },
+      { "threshold": 8, "model": { "type": "model", "model": "custom/arms/armtone5" } },
+      { "threshold": 9, "model": { "type": "model", "model": "custom/arms/armtone6" } },
+      { "threshold": 10, "model": { "type": "model", "model": "custom/arms/armmic" } }
+    ]
+  }
+}

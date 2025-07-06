@@ -1,0 +1,38 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/carved_pumpkin"
+    },
+    "entries": [
+      { "threshold": 3, "model": { "type": "model", "model": "custom/mk/furhat" } },
+      { "threshold": 4, "model": { "type": "model", "model": "custom/mk/mouseears" } },
+      { "threshold": 5, "model": { "type": "model", "model": "custom/mk/mouseearssparkle" } },
+      { "threshold": 6, "model": { "type": "model", "model": "custom/mk/mouseearsgold" } },
+      { "threshold": 7, "model": { "type": "model", "model": "custom/item/hat/item-hat-mickey-ears" } },
+      { "threshold": 8, "model": { "type": "model", "model": "custom/item/hat/item-hat-minnie-ears" } },
+      { "threshold": 9, "model": { "type": "model", "model": "custom/item/hat/item-hat-cowboy" } },
+      { "threshold": 10, "model": { "type": "model", "model": "custom/item/hat/item-hat-blue" } },
+      { "threshold": 11, "model": { "type": "model", "model": "custom/item/hat/item-hat-miner" } },
+      { "threshold": 12, "model": { "type": "model", "model": "custom/item/hat/item-hat-pride" } },
+      { "threshold": 13, "model": { "type": "model", "model": "custom/item/item-sunglasses" } },
+      { "threshold": 14, "model": { "type": "model", "model": "custom/item/tie/item-tie-blue" } },
+      { "threshold": 15, "model": { "type": "model", "model": "custom/hardhat" } },
+      { "threshold": 16, "model": { "type": "model", "model": "custom/item/hat/item-hat-jacks" } },
+      { "threshold": 17, "model": { "type": "model", "model": "custom/item/hat/item-hat-grad" } },
+      { "threshold": 18, "model": { "type": "model", "model": "custom/item/hat/item-hat-piratehat" } },
+      { "threshold": 19, "model": { "type": "model", "model": "custom/item/hat/item-hat-santamickeyhat" } },
+      { "threshold": 20, "model": { "type": "model", "model": "custom/item/hat/item-hat-reddapperdanhat" } },
+      { "threshold": 21, "model": { "type": "model", "model": "custom/item/hat/item-hat-newmickeyears" } },
+      { "threshold": 22, "model": { "type": "model", "model": "custom/hardhattech" } },
+      { "threshold": 23, "model": { "type": "model", "model": "custom/item/drhatnew" } },
+      { "threshold": 24, "model": { "type": "model", "model": "custom/item/hat/minnieheadband" } },
+      { "threshold": 25, "model": { "type": "model", "model": "custom/item/hat/christmasheadband" } },
+      { "threshold": 26, "model": { "type": "model", "model": "custom/item/hat/item-hat-santamickeyhat" } },
+      { "threshold": 27, "model": { "type": "model", "model": "custom/mk/barbossahat" } },
+      { "threshold": 28, "model": { "type": "model", "model": "custom/mk/spainardhatpotc" } }
+    ]
+  }
+}
