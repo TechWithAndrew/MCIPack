@@ -40,5 +40,10 @@
   "itemGroup.redstone": "§fRedstone Blocks",
   "itemGroup.search": "§fSearch Items",
   "itemGroup.spawnEggs": "§fSpawn Eggs",
-  "itemGroup.tools": "§fTools & Utilities"
+  "itemGroup.tools": "§fTools & Utilities",
+  "block.minecraft.resin_block": "Block of Royal Blue",
+  "block.minecraft.resin_brick_slab": "Royal Blue Brick Slab",
+  "block.minecraft.resin_brick_stairs": "Royal Blue Brick Stairs",
+  "block.minecraft.resin_brick_wall": "Royal Blue Brick Wall",
+  "block.minecraft.resin_bricks": "Royal Blue Bricks"
 }
