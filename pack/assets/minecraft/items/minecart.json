@@ -40,7 +40,7 @@
       { "threshold": 224, "model": { "type": "model", "model": "custom/mk/dumbo" } },
       { "threshold": 225, "model": { "type": "model", "model": "custom/mk/ppfvehicle" } },
       { "threshold": 226, "model": { "type": "model", "model": "custom/wdwbus" } },
-      { "threshold": 227, "model": { "type": "model", "model": "monorails/wdwyellowmonofront" } },
+      { "threshold": 227, "model": { "type": "model", "model": "monorails/wdwyellowfront" } },
       { "threshold": 228, "model": { "type": "model", "model": "monorails/wdwyellowmonobody" } }
     ]
   }
