@@ -3,12 +3,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [4, 4],
 	"textures": {
-		"2": "monorailyellowfront1.5",
-		"3": "monorailyellow",
-		"4": "monorailyellowtext",
-		"5": "monorailwdwtext",
-		"6": "monorailheadlights",
-		"particle": "monorailyellow"
+		"2": "monorails/monorailyellowfront",
+		"3": "monorails/monorailyellow",
+		"4": "monorails/monorailyellowtext",
+		"5": "monorails/monorailwdwtext",
+		"6": "monorails/monorailheadlights",
+		"particle": "monorails/monorailyellow"
 	},
 	"elements": [
 		{
