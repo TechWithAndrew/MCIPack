@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/monorails/monoraildooryellow",
-		"particle": "item/monorails/monoraildooryellow"
+		"0": "item/monorails/monorailyellowdoor",
+		"particle": "item/monorails/monorailyellowdoor"
 	},
 	"elements": [
 		{
