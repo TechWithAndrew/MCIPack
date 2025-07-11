@@ -57,7 +57,7 @@
       { "threshold": 241, "model": { "type": "model", "model": "monorails/wdwcoralfront" } },
       { "threshold": 242, "model": { "type": "model", "model": "monorails/wdwcoralmonobody" } },
       { "threshold": 243, "model": { "type": "model", "model": "monorails/wdwlimefront" } },
-      { "threshold": 244, "model": { "type": "model", "model": "monorails/wdwlmemonobody" } },
+      { "threshold": 244, "model": { "type": "model", "model": "monorails/wdwlimemonobody" } },
       { "threshold": 245, "model": { "type": "model", "model": "monorails/wdwtealfront" } },
       { "threshold": 246, "model": { "type": "model", "model": "monorails/wdwtealmonobody" } },
       { "threshold": 247, "model": { "type": "model", "model": "monorails/wdwpeachfront" } },
