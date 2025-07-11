@@ -1,0 +1,24 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/stone_hoe"
+    },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "monorails/monoraildoorblack" } },
+      { "threshold": 2, "model": { "type": "model", "model": "monorails/monoraildoorblue" } },
+      { "threshold": 3, "model": { "type": "model", "model": "monorails/monoraildoorcoral" } },
+      { "threshold": 4, "model": { "type": "model", "model": "monorails/monoraildoorgold" } },
+      { "threshold": 5, "model": { "type": "model", "model": "monorails/monoraildoorgreen" } },
+      { "threshold": 6, "model": { "type": "model", "model": "monorails/monoraildoorlime" } },
+      { "threshold": 7, "model": { "type": "model", "model": "monorails/monoraildoororange" } },
+      { "threshold": 8, "model": { "type": "model", "model": "monorails/monoraildoorpeach" } },
+      { "threshold": 9, "model": { "type": "model", "model": "monorails/monoraildoorred" } },
+      { "threshold": 10, "model": { "type": "model", "model": "monorails/monoraildoorsilver" } },
+      { "threshold": 11, "model": { "type": "model", "model": "monorails/monoraildoorteal" } },
+      { "threshold": 12, "model": { "type": "model", "model": "monorails/monoraildooryellow" } }
+    ]
+  }
+}
