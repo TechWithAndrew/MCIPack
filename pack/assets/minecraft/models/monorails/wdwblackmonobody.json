@@ -5,7 +5,7 @@
 	"textures": {
 		"7": "item/monorails/monorailblacktext",
 		"9": "item/monorails/monorailblackbody",
-		"10": "item/monorails/monorailwdwtext"
+		"10": "item/monorails/monorailwdwtextbody"
 	},
 	"elements": [
 		{
