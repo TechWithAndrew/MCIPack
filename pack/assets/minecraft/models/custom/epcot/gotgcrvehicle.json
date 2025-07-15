@@ -3,9 +3,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "gotgcrvehicle1",
-		"1": "gotgcrvehicle2",
-		"particle": "gotgcrvehicle1"
+		"0": "item/custom/epcot/gotgcrvehicle1",
+		"1": "item/custom/epcot/gotgcrvehicle2",
+		"particle": "item/custom/epcot/gotgcrvehicle1"
 	},
 	"elements": [
 		{
