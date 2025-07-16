@@ -7,7 +7,7 @@
       "model": "item/wooden_hoe"
     },
     "entries": [
-      { "threshold": 1, "model": { "type": "model", "model": "christmas/wdwmk/mswreath" } },
+      { "threshold": 1, "model": { "type": "model", "model": "screens/screen" } },
       
     ]
   }
