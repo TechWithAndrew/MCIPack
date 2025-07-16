@@ -7,7 +7,12 @@
       "model": "item/wooden_hoe"
     },
     "entries": [
-      { "threshold": 1, "model": { "type": "model", "model": "screens/screen" } }
+      { "threshold": 1, "model": { "type": "model", "model": "screens/screen1" } },
+      { "threshold": 2, "model": { "type": "model", "model": "screens/screen2" } },
+      { "threshold": 3, "model": { "type": "model", "model": "screens/screen3" } },
+      { "threshold": 4, "model": { "type": "model", "model": "screens/screen4" } },
+      { "threshold": 5, "model": { "type": "model", "model": "screens/screen5" } },
+      { "threshold": 6, "model": { "type": "model", "model": "screens/screen6" } }
       
     ]
   }
