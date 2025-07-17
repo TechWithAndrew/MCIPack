@@ -3,9 +3,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "copwall",
-		"1": "copfloor",
-		"particle": "copwall"
+		"0": "item/custom/mk/copwall",
+		"1": "item/custom/mk/copfloor",
+		"particle": "item/custom/mk/copwall"
 	},
 	"elements": [
 		{
