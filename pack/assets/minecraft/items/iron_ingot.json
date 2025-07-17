@@ -197,7 +197,8 @@
       { "threshold": 223, "model": { "type": "model", "model": "custom/dhs/chronosinnerring" } },
       { "threshold": 224, "model": { "type": "model", "model": "custom/dhs/rotrpre3door" } },
       { "threshold": 225, "model": { "type": "model", "model": "custom/mk/tianacrown" } },
-      { "threshold": 226, "model": { "type": "model", "model": "custom/mk/copchair" } }
+      { "threshold": 226, "model": { "type": "model", "model": "custom/mk/copchair" } },
+      { "threshold": 227, "model": { "type": "model", "model": "custom/mk/copseat" } }
     ]
   }
 }
