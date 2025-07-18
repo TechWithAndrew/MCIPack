@@ -200,7 +200,7 @@
       { "threshold": 226, "model": { "type": "model", "model": "custom/mk/copchair" } },
       { "threshold": 227, "model": { "type": "model", "model": "custom/mk/copseat" } },
       { "threshold": 228, "model": { "type": "model", "model": "custom/dhs/rotrfelevwall" } },
-      { "threshold": 229, "model": { "type": "model", "model": "custom/dhs/rotrfelevwall1" } 
+      { "threshold": 229, "model": { "type": "model", "model": "custom/dhs/rotrfelevwall1" } }
         
     ]
   }
