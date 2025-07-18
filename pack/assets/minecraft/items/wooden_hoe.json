@@ -12,7 +12,17 @@
       { "threshold": 3, "model": { "type": "model", "model": "screens/screen3" } },
       { "threshold": 4, "model": { "type": "model", "model": "screens/screen4" } },
       { "threshold": 5, "model": { "type": "model", "model": "screens/screen5" } },
-      { "threshold": 6, "model": { "type": "model", "model": "screens/screen6" } }
+      { "threshold": 6, "model": { "type": "model", "model": "screens/screen6" } },
+      { "threshold": 7, "model": { "type": "model", "model": "screens/hmp1" } },
+      { "threshold": 8, "model": { "type": "model", "model": "screens/hmp2" } },
+      { "threshold": 9, "model": { "type": "model", "model": "screens/hmp3" } },
+      { "threshold": 10, "model": { "type": "model", "model": "screens/hmp4" } },
+      { "threshold": 11, "model": { "type": "model", "model": "screens/hmp5" } },
+      { "threshold": 12, "model": { "type": "model", "model": "screens/hmp6" } },
+      { "threshold": 13, "model": { "type": "model", "model": "screens/hmp7" } },
+      { "threshold": 14, "model": { "type": "model", "model": "screens/hmp8" } },
+      { "threshold": 15, "model": { "type": "model", "model": "screens/hmp9" } },
+      { "threshold": 16, "model": { "type": "model", "model": "screens/hmp10" } }
       
     ]
   }
