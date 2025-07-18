@@ -198,7 +198,9 @@
       { "threshold": 224, "model": { "type": "model", "model": "custom/dhs/rotrpre3door" } },
       { "threshold": 225, "model": { "type": "model", "model": "custom/mk/tianacrown" } },
       { "threshold": 226, "model": { "type": "model", "model": "custom/mk/copchair" } },
-      { "threshold": 227, "model": { "type": "model", "model": "custom/mk/copseat" } }
+      { "threshold": 227, "model": { "type": "model", "model": "custom/mk/copseat" } },
+      { "threshold": 228, "model": { "type": "model", "model": "custom/dhs/rotrfelevwall" } },
+      { "threshold": 229, "model": { "type": "model", "model": "custom/dhs/rotrfelevwall1" } 
     ]
   }
 }
