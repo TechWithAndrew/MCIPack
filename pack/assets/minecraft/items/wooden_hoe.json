@@ -23,7 +23,6 @@
       { "threshold": 14, "model": { "type": "model", "model": "screens/hmp2" } },
       { "threshold": 15, "model": { "type": "model", "model": "screens/hmp1" } }
       
-      
     ]
   }
 }
