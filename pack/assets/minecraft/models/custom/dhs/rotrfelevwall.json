@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"1": "rotrfelevwallredanimated",
-		"particle": "rotrfelevwallredanimated"
+		"1": "item/custom/rotrfelevwallredanimated",
+		"particle": "item/custom/rotrfelevwallredanimated"
 	},
 	"elements": [
 		{
