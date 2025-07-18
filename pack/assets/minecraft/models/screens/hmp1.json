@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/hmp1",
-		"particle": "block/hmp1"
+		"0": "item/screens/hmp1",
+		"particle": "item/screens/hmp1"
 	},
 	"elements": [
 		{
