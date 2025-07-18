@@ -19,7 +19,16 @@
       { "threshold": 10, "model": { "type": "model", "model": "screens/hmp5" } },
       { "threshold": 11, "model": { "type": "model", "model": "screens/hmp3" } },
       { "threshold": 12, "model": { "type": "model", "model": "screens/hmp2" } },
-      { "threshold": 13, "model": { "type": "model", "model": "screens/hmp1" } }
+      { "threshold": 13, "model": { "type": "model", "model": "screens/hmp1" } },
+      { "threshold": 14, "model": { "type": "model", "model": "screens/hmp7" } },
+      { "threshold": 15, "model": { "type": "model", "model": "screens/hmp8" } },
+      { "threshold": 16, "model": { "type": "model", "model": "screens/hmp9" } },
+      { "threshold": 17, "model": { "type": "model", "model": "screens/hmp10" } },
+      { "threshold": 18, "model": { "type": "model", "model": "screens/hmp11" } },
+      { "threshold": 19, "model": { "type": "model", "model": "screens/hmp10" } },
+      { "threshold": 20, "model": { "type": "model", "model": "screens/hmp9" } },
+      { "threshold": 20, "model": { "type": "model", "model": "screens/hmp8" } },
+      { "threshold": 20, "model": { "type": "model", "model": "screens/hmp7" } }
       
     ]
   }
