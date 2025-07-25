@@ -8,7 +8,8 @@
     },
     "entries": [
       { "threshold": 1, "model": { "type": "model", "model": "trashcans/wdwmk/tmrlndtrashcan" } },
-      { "threshold": 2, "model": { "type": "model", "model": "trashcans/wdwmk/dumbotrashcan" } }
+      { "threshold": 2, "model": { "type": "model", "model": "trashcans/wdwmk/dumbotrashcan" } },
+      { "threshold": 3, "model": { "type": "model", "model": "trashcans/wdwmk/wdwmstrashcan" } }
     ]
   }
 }
