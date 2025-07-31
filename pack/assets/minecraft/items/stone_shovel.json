@@ -16,7 +16,8 @@
       { "threshold": 7, "model": { "type": "model", "model": "custom/arms/armtone4" } },
       { "threshold": 8, "model": { "type": "model", "model": "custom/arms/armtone5" } },
       { "threshold": 9, "model": { "type": "model", "model": "custom/arms/armtone6" } },
-      { "threshold": 10, "model": { "type": "model", "model": "custom/arms/armmic" } }
+      { "threshold": 10, "model": { "type": "model", "model": "custom/arms/armmic" } },
+      { "threshold": 11, "model": { "type": "model", "model": "custom/arms/armtone7" } }
     ]
   }
 }
