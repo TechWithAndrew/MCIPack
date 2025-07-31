@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "armtone1",
-		"particle": "armtone1"
+		"0": "item/custom/arms/armtone7",
+		"particle": "item/custom/arms/armtone7"
 	},
 	"elements": [
 		{
