@@ -7,7 +7,7 @@
             {"type": "bitmap","file": "minecraft:_fonts/ranks/hr.png","ascent": 7,"height": 7,"chars": ["ꀅ"]},
 
             {"type": "bitmap","file": "minecraft:_fonts/ranks/media-lead.png","ascent": 7,"height": 7,"chars": ["ꀃ"]},
-            {"type": "bitmap","file": "minecraft:_fonts/ranks/pr.png","ascent": 7,"height": 7,"chars": ["ꀍ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/media.png","ascent": 7,"height": 7,"chars": ["ꀍ"]},
             {"type": "bitmap","file": "minecraft:_fonts/ranks/pr-eme.png","ascent": 7,"height": 7,"chars": ["ꀎ"]},
 
 
