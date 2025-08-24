@@ -64,7 +64,8 @@
       { "threshold": 248, "model": { "type": "model", "model": "monorails/wdwpeachmonobody" } },
       { "threshold": 249, "model": { "type": "model", "model": "monorails/wdwblackfront" } },
       { "threshold": 250, "model": { "type": "model", "model": "monorails/wdwblackmonobody" } },
-      { "threshold": 251, "model": { "type": "model", "model": "custom/epcot/gotgcrvehicle" } }
+      { "threshold": 251, "model": { "type": "model", "model": "custom/epcot/gotgcrvehicle" } },
+      { "threshold": 252, "model": { "type": "model", "model": "buses/bus" } },
     ]
   }
 }
