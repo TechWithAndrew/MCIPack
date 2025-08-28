@@ -1,0 +1,44 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "wooden_hoe",
+	"textures": {
+		"0": "item/screens/tronprestart",
+		"particle": "item/screens/tronprestart"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 13, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 15.91453, 15.84615], "texture": "#0"},
+				"south": {"uv": [0, 0, 15.91453, 15.84615], "texture": "#0"},
+				"west": {"uv": [0, 0, 15.91453, 15.84615], "texture": "#0"},
+				"up": {"uv": [0, 0, 15.91453, 15.84615], "texture": "#0"},
+				"down": {"uv": [0, 0, 15.91453, 15.84615], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 5.25, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 5.25, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [-0.5, 5.5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [-1.5, 5.25, 0]
+		},
+		"gui": {
+			"translation": [0, 1.75, 0]
+		},
+		"fixed": {
+			"translation": [0, 1.75, 0]
+		}
+	}
+}
