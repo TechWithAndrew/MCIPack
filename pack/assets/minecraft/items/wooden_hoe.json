@@ -30,7 +30,7 @@
       { "threshold": 21, "model": { "type": "model", "model": "screens/hmp8" } },
       { "threshold": 22, "model": { "type": "model", "model": "screens/hmp7" } },
       { "threshold": 23, "model": { "type": "model", "model": "screens/tronprestart" } },
-      { "threshold": 24, "model": { "type": "model", "model": "screens/arrowanimation" } }
+      { "threshold": 24, "model": { "type": "model", "model": "screens/tronarrow" } }
     ]
   }
 }
