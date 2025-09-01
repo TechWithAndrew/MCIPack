@@ -31,7 +31,9 @@
       { "threshold": 22, "model": { "type": "model", "model": "screens/hmp7" } },
       { "threshold": 23, "model": { "type": "model", "model": "screens/tronprestart" } },
       { "threshold": 24, "model": { "type": "model", "model": "screens/tronarrow" } },
-      { "threshold": 25, "model": { "type": "model", "model": "screens/tronpresquare" } }
+      { "threshold": 25, "model": { "type": "model", "model": "screens/tronpresquare" } },
+      { "threshold": 26, "model": { "type": "model", "model": "screens/tronstationarrowstill" } },
+      { "threshold": 27, "model": { "type": "model", "model": "screens/tronstationarrow" } }
     ]
   }
 }
