@@ -22,7 +22,7 @@
       { "threshold": 206, "model": { "type": "model", "model": "custom/mk/mk-teacupblue" } },
       { "threshold": 207, "model": { "type": "model", "model": "custom/mk/tl/lightcycle" } },
       { "threshold": 208, "model": { "type": "model", "model": "custom/mk/tl/mk-astro" } },
-      { "threshold": 209, "model": { "type": "model", "model": "custom/mk/tl/troncycleorange" } },
+      { "threshold": 209, "model": { "type": "model", "model": "custom/mk/tl/orangetron" } },
       { "threshold": 210, "model": { "type": "model", "model": "custom/mk/bigthunder" } },
       { "threshold": 211, "model": { "type": "model", "model": "custom/mk/aladdin" } },
       { "threshold": 212, "model": { "type": "model", "model": "custom/mk/jungle-cruise-boat" } },
