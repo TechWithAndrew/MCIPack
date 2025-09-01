@@ -30,7 +30,7 @@ jobs:
       - name: Tag and create release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: latest2
+          tag_name: latest
           files: |
             *.zip
             hash.txt
