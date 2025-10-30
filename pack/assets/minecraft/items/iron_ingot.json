@@ -9,7 +9,7 @@
     "entries": [
       { "threshold": 2, "model": { "type": "model", "model": "custom/mk/tl/mk-tl-trash-can" } },
       { "threshold": 3, "model": { "type": "model", "model": "custom/mk/ms/newmstrashcan" } },
-      { "threshold": 3, "model": { "type": "model", "model": "custom/mk/tl/tron_sign" } },
+      { "threshold": 4, "model": { "type": "model", "model": "custom/mk/tl/tron_sign" } },
       { "threshold": 5, "model": { "type": "model", "model": "custom/generic/generic-trash-can" } },
       { "threshold": 10, "model": { "type": "model", "model": "custom/mk/tl/mi/mk-tl-mi-fastpass-sign" } },
       { "threshold": 13, "model": { "type": "model", "model": "custom/item/item-autograph-book" } },
