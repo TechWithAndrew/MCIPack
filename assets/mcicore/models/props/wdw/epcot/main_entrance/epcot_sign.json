@@ -2,9 +2,9 @@
 	"format_version": "1.21.6",
 	"credit": "made by bellymustache for rcthemepark",
 	"textures": {
-		"1": "mcicore:wdw/epcot/props/main_entrance/epcot_text",
-		"2": "mcicore:wdw/epcot/props/main_entrance/epcot_plaque",
-		"3": "mcicore:wdw/epcot/props/main_entrance/epcot_sign"
+		"1": "wdw/epcot/props/main_entrance/epcot_text",
+		"2": "wdw/epcot/props/main_entrance/epcot_plaque",
+		"3": "wdw/epcot/props/main_entrance/epcot_sign"
 	},
 	"elements": [
 		{
