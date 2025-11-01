@@ -2,8 +2,33 @@
   "sources": [
     {
       "type": "directory",
-      "source": "mcicore:textures",
-      "prefix": ""
+      "source": "block",
+      "prefix": "block/"
+    },
+    {
+      "type": "directory",
+      "source": "item",
+      "prefix": "item/"
+    },
+    {
+      "type": "directory",
+      "source": "rides",
+      "prefix": "rides/"
+    },
+    {
+      "type": "directory",
+      "source": "props",
+      "prefix": "props/"
+    },
+    {
+      "type": "directory",
+      "source": "ui",
+      "prefix": "ui/"
+    },
+    {
+      "type": "directory",
+      "source": "npcs",
+      "prefix": "npcs/"
     }
   ]
 }
