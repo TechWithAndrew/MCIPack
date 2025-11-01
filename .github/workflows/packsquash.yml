@@ -10,24 +10,15 @@ jobs:
       - name: Clone repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # A non-shallow repository clone is required
 
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4
         with:
           packsquash_version: latest
-          # The "options" field is TOML — must start at column 0
           options: |
-            pack_directory = "."
-            output_file_path = "./pack.zip"
-
-            [[texture_overrides]]
-            path = "assets/mcicore/**"
-            optimize = false
-
-            [[texture_overrides]]
-            path = "pack.png"
-            optimize = false
+            pack_directory = '.'
+            output_file_path = './pack.zip'
 
       - name: Generate Hash
         run: sha1sum pack.zip | head -c 40 > hash.txt
