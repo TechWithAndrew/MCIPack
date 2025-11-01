@@ -20,6 +20,16 @@ jobs:
             pack_directory = '.'
             output_file_path = './pack.zip'
 
+            # --- Disable compression for all mcicore textures ---
+            [[texture_overrides]]
+            path = "assets/mcicore/**"
+            optimize = false
+
+            # (optional) Keep pack.png untouched too
+            [[texture_overrides]]
+            path = "pack.png"
+            optimize = false
+
       - name: Generate Hash
         run: sha1sum pack.zip | head -c 40 > hash.txt
 
