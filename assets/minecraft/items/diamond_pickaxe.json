@@ -7,7 +7,8 @@
       "model": "item/diamond_pickaxe"
     },
     "entries": [
-        { "threshold": 1, "model": { "type": "model", "model": "mcicore:props/wdw/epcot/main_entrance/epcot_sign" } }
+        { "threshold": 1, "model": { "type": "model", "model": "mcicore:props/wdw/epcot/main_entrance/epcot_sign" } },
+        { "threshold": 100, "model": { "type": "model", "model": "mcicore:rides/wdw/epcot/world_discovery/gotg/wonders_of_xandar_sign" } }
     ] 
   } 
 }
