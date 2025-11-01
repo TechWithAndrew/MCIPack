@@ -22,8 +22,8 @@
     },
     {
       "type": "directory",
-      "source": "props",
-      "prefix": "props/"
+      "source": "wdw",
+      "prefix": "wdw/"
     },
     {
       "type": "directory",
