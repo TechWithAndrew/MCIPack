@@ -8,7 +8,6 @@
     },
     "entries": [
         { "threshold": 1, "model": { "type": "model", "model": "mcicore:props/wdw/epcot/main_entrance/epcot_sign" } }
-    ]
+    ] 
   }
 }
-
