@@ -7,7 +7,7 @@
       "model": "item/diamond_pickaxe"
     },
     "entries": [
-        { "threshold": 1, "model": { "type": "model", "model": "mcicore/models/props/wdw/epcot/main_entrance/epcot_sign" } }
+        { "threshold": 1, "model": { "type": "model", "model": "mcicore:props/wdw/epcot/main_entrance/epcot_sign" } }
     ]
   }
 }
