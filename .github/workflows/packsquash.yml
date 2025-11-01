@@ -10,22 +10,21 @@ jobs:
       - name: Clone repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # A non-shallow repository clone is required
+          fetch-depth: 0
 
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4
         with:
           packsquash_version: latest
+          # The "options" field is TOML — must start at column 0
           options: |
-            pack_directory = '.'
-            output_file_path = './pack.zip'
+            pack_directory = "."
+            output_file_path = "./pack.zip"
 
-            # --- Disable compression for all mcicore textures ---
             [[texture_overrides]]
             path = "assets/mcicore/**"
             optimize = false
 
-            # (optional) Keep pack.png untouched too
             [[texture_overrides]]
             path = "pack.png"
             optimize = false
