@@ -1,0 +1,70 @@
+{
+	"format_version": "1.21.6",
+	"credit": "made by bellymustache for rcthemepark",
+	"textures": {
+		"0": "mcicore:wdw/epcot/rides/world_discovery/gotg/queue/wonders_of_xandar",
+		"1": "mcicore:wdw/epcot/rides/world_discovery/gotg/queue/our_world",
+		"2": "mcicore:wdw/epcot/rides/world_discovery/gotg/queue/wonders_of_xandar_text",
+		"3": "mcicore:wdw/epcot/rides/world_discovery/gotg/queue/our_world_text",
+		"particle": "mcicore:wdw/epcot/rides/world_discovery/gotg/queue/our_world"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 12, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 6], "texture": "#0"},
+				"south": {"uv": [0, 6, 8, 12], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 6], "texture": "#0"},
+				"up": {"uv": [8, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [8, 0, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.26875, 5.00625, 7.975],
+			"to": [11.58125, 7.44375, 7.975],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.20625, 5.56875, 6.475]},
+			"faces": {
+				"north": {"uv": [0, 0, 9.75, 3.25], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 3.25], "texture": "#2"},
+				"south": {"uv": [0, 4, 9.75, 7.25], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 3.25], "texture": "#2"},
+				"up": {"uv": [9.75, 0, 0, 0], "texture": "#2"},
+				"down": {"uv": [9.75, 0, 0, 0], "texture": "#2"}
+			}
+		},
+		{
+			"from": [-12, 4.75, 4.1],
+			"to": [0, 8.75, 4.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 4.75, 4.1]},
+			"faces": {
+				"north": {"uv": [0, 0, 12, 4], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 4], "texture": "#1"},
+				"south": {"uv": [0, 4, 12, 8], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 4], "texture": "#1"},
+				"up": {"uv": [12, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [12, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-9.5, 6.425, 4.075],
+			"to": [-0.5, 7.175, 4.075],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 4.925, 4.075]},
+			"faces": {
+				"north": {"uv": [0, 0, 9, 0.75], "texture": "#3"},
+				"east": {"uv": [0, 0, 0, 0.75], "texture": "#3"},
+				"south": {"uv": [0, 1, 9, 1.75], "texture": "#3"},
+				"west": {"uv": [0, 0, 0, 0.75], "texture": "#3"},
+				"up": {"uv": [9, 0, 0, 0], "texture": "#3"},
+				"down": {"uv": [9, 0, 0, 0], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"translation": [0, 5.75, 0]
+		}
+	}
+}
