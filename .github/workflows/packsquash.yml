@@ -1,5 +1,6 @@
 name: Optimize resource pack
 on: [push, workflow_dispatch]
+
 jobs:
   packsquash:
     permissions: write-all
@@ -10,20 +11,18 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
+
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4
         with:
           packsquash_version: latest
           options: |
-            pack_directory = 'pack'
-      - name: Download optimized pack
-        uses: actions/download-artifact@v4
-        with:
-          name: Optimized pack
+            pack_directory = '.'
+            output_file_path = './pack.zip'
 
       - name: Generate Hash
         run: sha1sum pack.zip | head -c 40 > hash.txt
-      
+
       - name: Copy Pack For Plugin
         run: cp pack.zip $(cat hash.txt).zip
 
