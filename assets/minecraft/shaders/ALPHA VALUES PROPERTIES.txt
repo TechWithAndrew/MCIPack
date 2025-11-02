@@ -1,0 +1,8 @@
+ALPHA VALUES PROPERTIES:
+
+255: normal pixel, not emissive
+254: fully opaque and emissive, no face shading
+253, 1 and 2: wavy leaves (used for waviness only in leaves blocks, LEAVES BLOCKS CANNOT HAVE EMISSIVE PIXELS)
+252: translucent and emissive, no face shading (like the green part of the lightsaber)
+251: used for the light bulbs on Main Street
+245 (f5f5f5), 218 (dadada), 192 (c0c0c0), 164 (a4a4a4), 139 (8b8b8b), 113 (717171), 89 (595959), 66 (424242), 45 (2d2d2d), 26 (1a1a1a): emissive, opacity equals to the values (so emissive, but less and less opaque)
