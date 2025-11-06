@@ -13,7 +13,8 @@
         { "threshold": 102, "model": { "type": "model", "model": "mcicore:rides/wdw/epcot/world_discovery/gotg/props/queue/screen_r" } },
         { "threshold": 103, "model": { "type": "model", "model": "mcicore:rides/wdw/epcot/world_discovery/gotg/props/queue/screen_l" } },
 		
-        { "threshold": 200, "model": { "type": "model", "model": "mcicore:rides/wdw/epcot/world_discovery/tt/props/outside/tt_sign" } }
+        { "threshold": 200, "model": { "type": "model", "model": "mcicore:rides/wdw/epcot/world_discovery/tt/props/outside/tt_sign" } },
+        { "threshold": 201, "model": { "type": "model", "model": "mcicore:rides/wdw/epcot/world_discovery/tt/props/outside/tt_sign_emissive" } }
     ] 
   } 
 }
