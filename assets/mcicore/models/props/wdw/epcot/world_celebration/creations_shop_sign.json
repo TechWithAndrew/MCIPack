@@ -8,6 +8,19 @@
 	},
 	"elements": [
 		{
+			"from": [-2, -2, 7.95108],
+			"to": [18, 6, 7.95108],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2, 7.95108]},
+			"faces": {
+				"north": {"uv": [0, 0, 10, 4], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 4], "texture": "#1"},
+				"south": {"uv": [0, 4, 10, 8], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 4], "texture": "#1"},
+				"up": {"uv": [10, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [10, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
 			"name": "creations_shop_sign_0",
 			"from": [16, 2.49375, 7.875],
 			"to": [17.25, 3.49375, 9.625],
@@ -835,12 +848,12 @@
 		}
 	],
 	"groups": [
+		0,
 		{
 			"name": "creations_shop_sign",
 			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [
-				0,
 				1,
 				2,
 				3,
@@ -898,7 +911,8 @@
 				55,
 				56,
 				57,
-				58
+				58,
+				59
 			]
 		}
 	]
