@@ -3,7 +3,7 @@
 "texture_size": [32, 32],
 "textures": {
 "0": "item/blocklike/light_blue_concrete",
-"1": "item/custom/mk/mkmaptexture",
+"1": "mcicore:wdw/props/mk/default/mkmaptexture",
 "particle": "item/blocklike/light_blue_concrete"
 },
 	"elements": [
