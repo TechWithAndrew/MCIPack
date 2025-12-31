@@ -4,7 +4,7 @@
 "textures": {
 "0": "mcicore:wdw/props/mk/default/light_blue_concrete",
 "1": "mcicore:wdw/props/mk/default/mkmaptexture",
-"particle": "mcicore:wdw/props/mk/default/light_blue_concrete"
+"particle": "mcicore:wdw/props/mk/default/mkmaptexture"
 },
 	"elements": [
 		{
