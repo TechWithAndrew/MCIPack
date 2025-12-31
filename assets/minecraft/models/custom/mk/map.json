@@ -2,9 +2,9 @@
 "credit": "Made with Blockbench",
 "texture_size": [32, 32],
 "textures": {
-"0": "block/light_blue_concrete",
+"0": "item/light_blue_concrete",
 "1": "item/custom/mk/mkmaptexture",
-"particle": "block/light_blue_concrete"
+"particle": "item/light_blue_concrete"
 },
 	"elements": [
 		{
