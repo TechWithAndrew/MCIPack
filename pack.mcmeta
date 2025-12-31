@@ -1,13 +1,10 @@
 {
   "pack": {
-    "pack_format": 15,
-		"supported_formats": {
-			"min_inclusive": 15,
-			"max_inclusive": 1024
-		},
-		"min_format": 15,
-		"max_format": 1024,
-
-    "description": "The Official Resourcepack For MClIlluminations.net"
+    "pack_format": 75,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 75
+    },
+    "description": "The Official Resourcepack For HorizonParks.net"
   }
 }
