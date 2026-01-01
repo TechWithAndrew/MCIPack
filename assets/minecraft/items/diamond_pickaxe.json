@@ -7,7 +7,7 @@
       "model": "item/diamond_pickaxe"
     },
     "entries": [
-        { "threshold": 1, "model": { "type": "model", "model": "mcicore:props/wdw/epcot/main_entrance/epcot_sign" } },
+    { "threshold": 1, "model": { "type": "model", "model": "mcicore:props/wdw/epcot/main_entrance/epcot_sign" } },
 		{ "threshold": 2, "model": { "type": "model", "model": "mcicore:props/wdw/epcot/world_celebration/pillars" } },
 		{ "threshold": 3, "model": { "type": "model", "model": "mcicore:props/wdw/epcot/world_celebration/creations_shop_sign" } },
 		{ "threshold": 4, "model": { "type": "model", "model": "mcicore:props/wdw/epcot/world_celebration/club_cool_sign" } },
