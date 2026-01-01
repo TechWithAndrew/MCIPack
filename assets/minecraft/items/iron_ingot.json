@@ -53,7 +53,7 @@
       { "threshold": 78, "model": { "type": "model", "model": "custom/item/bslogo" } },
       { "threshold": 79, "model": { "type": "model", "model": "custom/mk/ms/mk-al-trash-can" } },
       { "threshold": 80, "model": { "type": "model", "model": "custom/mk/chicken" } },
-      { "threshold": 81, "model": { "type": "model", "model": "mcicore:props/wdw/mk/default/map" } },
+      { "threshold": 81, "model": { "type": "model", "model": "mcicore:item/props/wdw/mk/default/map" } },
       { "threshold": 82, "model": { "type": "model", "model": "custom/mk/eli" } },
       { "threshold": 83, "model": { "type": "model", "model": "custom/mk/piratessign" } },
       { "threshold": 84, "model": { "type": "model", "model": "custom/item/amclogo" } },
