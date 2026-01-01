@@ -2,9 +2,9 @@
 "credit": "Made with Blockbench",
 "texture_size": [32, 32],
 "textures": {
-"0": "mcicore:item/wdw/props/mk/default/light_blue_concrete",
-"1": "mcicore:item/wdw/props/mk/default/mkmaptexture",
-"particle": "mcicore:item/wdw/props/mk/default/light_blue_concrete"
+"0": "mcicore:item/wdw/mk/default/light_blue_concrete",
+"1": "mcicore:item/wdw/mk/default/mkmaptexture",
+"particle": "mcicore:item/wdw/mk/default/light_blue_concrete"
 },
 	"elements": [
 		{
