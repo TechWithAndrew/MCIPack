@@ -9,7 +9,8 @@
     "entries": [
       { "threshold": 1, "model": { "type": "model", "model": "trashcans/wdwmk/tmrlndtrashcan" } },
       { "threshold": 2, "model": { "type": "model", "model": "trashcans/wdwmk/dumbotrashcan" } },
-      { "threshold": 3, "model": { "type": "model", "model": "trashcans/wdwmk/wdwmstrashcan" } }
+      { "threshold": 3, "model": { "type": "model", "model": "trashcans/wdwmk/wdwmstrashcan" } },
+      { "threshold": 4, "model": { "type": "model", "model": "mcicore:item/props/wdw/mk/trashcans/altrashcan" } }
     ]
   }
 }
