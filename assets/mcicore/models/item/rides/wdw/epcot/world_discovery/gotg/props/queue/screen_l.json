@@ -3,7 +3,7 @@
 	"credit": "made by bellymustache for rcthemepark",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "mcicore:wdw/epcot/rides/world_discovery/gotg/queue/preshow_screen"
+		"1": "mcicore:item/wdw/epcot/rides/world_discovery/gotg/queue/preshow_screen"
 	},
 	"elements": [
 		{

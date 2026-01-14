@@ -2,11 +2,11 @@
 	"format_version": "1.21.6",
 	"credit": "made by bellymustache for rcthemepark",
 	"textures": {
-		"0": "mcicore:wdw/epcot/rides/world_discovery/gotg/queue/wonders_of_xandar",
-		"1": "mcicore:wdw/epcot/rides/world_discovery/gotg/queue/our_world",
-		"2": "mcicore:wdw/epcot/rides/world_discovery/gotg/queue/wonders_of_xandar_text",
-		"3": "mcicore:wdw/epcot/rides/world_discovery/gotg/queue/our_world_text",
-		"particle": "mcicore:wdw/epcot/rides/world_discovery/gotg/queue/our_world"
+		"0": "mcicore:item/wdw/epcot/rides/world_discovery/gotg/queue/wonders_of_xandar",
+		"1": "mcicore:item/wdw/epcot/rides/world_discovery/gotg/queue/our_world",
+		"2": "mcicore:item/wdw/epcot/rides/world_discovery/gotg/queue/wonders_of_xandar_text",
+		"3": "mcicore:item/wdw/epcot/rides/world_discovery/gotg/queue/our_world_text",
+		"particle": "mcicore:item/wdw/epcot/rides/world_discovery/gotg/queue/our_world"
 	},
 	"elements": [
 		{
