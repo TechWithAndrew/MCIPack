@@ -2,10 +2,10 @@
 	"format_version": "1.21.6",
 	"credit": "made by bellymustache for mcilluminations",
 	"textures": {
-		"3": "mcicore:wdw/epcot/rides/world_discovery/tt/props/outside/base",
-		"6": "mcicore:wdw/epcot/rides/world_discovery/tt/props/outside/logo",
-		"7": "mcicore:wdw/epcot/rides/world_discovery/tt/props/outside/small_text",
-		"8": "mcicore:wdw/epcot/rides/world_discovery/tt/props/outside/gm"
+		"3": "mcicore:item/wdw/epcot/rides/world_discovery/tt/props/outside/base",
+		"6": "mcicore:item/wdw/epcot/rides/world_discovery/tt/props/outside/logo",
+		"7": "mcicore:item/wdw/epcot/rides/world_discovery/tt/props/outside/small_text",
+		"8": "mcicore:item/wdw/epcot/rides/world_discovery/tt/props/outside/gm"
 	},
 	"elements": [
 		{
