@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "made by bellymustache",
 	"textures": {
-		"0": "mcicore:wdw/epcot/props/world_celebration/club_cool_sign",
-		"particle": "mcicore:wdw/epcot/props/world_celebration/club_cool_sign"
+		"0": "mcicore:item/wdw/epcot/props/world_celebration/club_cool_sign",
+		"particle": "mcicore:item/wdw/epcot/props/world_celebration/club_cool_sign"
 	},
 	"elements": [
 		{

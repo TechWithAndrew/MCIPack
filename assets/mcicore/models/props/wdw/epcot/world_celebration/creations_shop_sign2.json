@@ -3,8 +3,8 @@
 	"credit": "made by bellymustache",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "mcicore:wdw/epcot/props/world_celebration/creations_shop_sign",
-		"particle": "mcicore:wdw/epcot/props/world_celebration/creations_shop_sign"
+		"3": "mcicore:item/wdw/epcot/props/world_celebration/creations_shop_sign",
+		"particle": "mcicore:item/wdw/epcot/props/world_celebration/creations_shop_sign"
 	},
 	"elements": [
 		{

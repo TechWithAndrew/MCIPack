@@ -3,8 +3,8 @@
 	"credit": "made by bellymustache",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "mcicore:wdw/epcot/props/world_celebration/pillars",
-		"particle": "mcicore:wdw/epcot/props/world_celebration/pillars"
+		"2": "mcicore:item/wdw/epcot/props/world_celebration/pillars",
+		"particle": "mcicore:item/wdw/epcot/props/world_celebration/pillars"
 	},
 	"elements": [
 		{
