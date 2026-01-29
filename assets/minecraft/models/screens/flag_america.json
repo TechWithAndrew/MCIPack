@@ -1,0 +1,59 @@
+{
+	"format_version": "1.21.6",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/screens/flag_america",
+		"particle": "item/screens/flag_america"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 8],
+			"to": [32, 32, 8.04],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [2, 4, 14, 12], "texture": "#0"},
+				"south": {"uv": [14, 4, 2, 12], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [134.93, 4.84, -177.98],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [134.93, 4.84, -177.98],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, 37.5, -180],
+			"translation": [12, -6, -14.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -46.25, 0],
+			"translation": [12, -6, -14.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"translation": [0, -2.75, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"fixed": {
+			"translation": [0, -9, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

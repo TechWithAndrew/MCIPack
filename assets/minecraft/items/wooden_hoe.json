@@ -33,7 +33,8 @@
       { "threshold": 24, "model": { "type": "model", "model": "screens/tronarrow" } },
       { "threshold": 25, "model": { "type": "model", "model": "screens/tronpresquare" } },
       { "threshold": 26, "model": { "type": "model", "model": "screens/tronstationarrowstill" } },
-      { "threshold": 27, "model": { "type": "model", "model": "screens/tronstationarrow" } }
+      { "threshold": 27, "model": { "type": "model", "model": "screens/tronstationarrow" } },
+      { "threshold": 28, "model": { "type": "model", "model": "screens/flag_america" } }
     ]
   }
 }
